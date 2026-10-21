@@ -1,0 +1,17 @@
+Factor,Nomination evidence,Max JASPAR score,ChIP-Atlas 1 kb: bound/total,ChIP-Atlas 1 kb: percentile,ChIP-Atlas 5 kb: bound/total,ChIP-Atlas 5 kb: percentile,ChIP-Atlas 10 kb: bound/total,ChIP-Atlas 10 kb: percentile,Perturbation signatures (MIF responded),Directional: activating / repressing,"Co-expression, +/- cancer types (median rho)","Activity vs MIF, median rho (significant)",Direction agrees across pipelines (6 cohorts)
+HIF1A,"Motif, conserved, TRRUST (3 of 4)",,79/142,99.6,79/142,99.5,79/142,99.5,52 (2),1 / 0,1 / 19 (-0.21),-0.17 (0),6 of 6
+TFAP2A,Hypothesis-free motif screen,14.57,29/47,96.7,29/47,96.8,29/47,96.3,4 (0),0 / 0,7 / 4 (+0.01),-0.21 (0),not tested
+SP1,"Motif, conserved, TRRUST, ENCODE (4 of 4 tiers)",17.55,17/48,57.3,19/48,57.0,19/48,52.4,36 (0),0 / 0,0 / 26 (-0.32),-0.19 (0),6 of 6
+RELA,"Motif, conserved, TRRUST (3 of 4)",,70/347,77.2,70/347,71.7,72/347,65.6,23 (2),0 / 1,5 / 9 (-0.10),-0.25 (0),3 of 6
+NFKB1,TRRUST; below conservation threshold,,3/40,81.0,3/40,76.5,3/40,72.4,34 (8),3 / 1,not tested,not tested,not tested
+MYC,Hypothesis-free motif screen,14.48,184/385,84.8,192/385,85.6,192/385,83.8,320 (12),8 / 0,not tested,not tested,not tested
+TP53,Hypothesis-free motif screen,14.70,19/392,96.2,19/392,92.1,27/392,92.3,24 (2),0 / 1,4 / 8 (-0.03),-0.24 (0),not tested
+ESR1,Hypothesis-free motif screen,14.79,211/1270,84.5,229/1270,76.6,239/1270,68.6,72 (7),1 / 0,0 / 25 (-0.33),-0.23 (0),not tested
+EGR1,Hypothesis-free motif screen,18.20,26/85,78.2,27/85,77.2,27/85,74.7,20 (1),0 / 1,0 / 15 (-0.15),-0.21 (0),not tested
+KLF4,Hypothesis-free motif screen,15.00,8/50,68.6,8/50,61.4,8/50,51.9,16 (2),1 / 0,1 / 18 (-0.17),-0.07 (0),not tested
+IRF1,Hypothesis-free motif screen,15.74,5/55,42.0,5/55,38.9,5/55,34.6,23 (0),0 / 0,2 / 15 (-0.16),-0.25 (0),not tested
+IRF2,Hypothesis-free motif screen,14.97,1/7,4.0,1/7,3.6,1/7,3.0,5 (0),0 / 0,0 / 25 (-0.29),-0.30 (0),not tested
+NFIL3,Hypothesis-free motif screen,14.92,1/2,57.7,2/2,89.5,2/2,86.2,0 (0),0 / 0,3 / 10 (-0.09),+0.15 (0),not tested
+NR1H2,Hypothesis-free screen (NR1H2::RXRA),16.51,0/11,n.a.,0/11,n.a.,0/11,n.a.,28 (2),0 / 0,13 / 1 (+0.13),-0.21 (0),not tested
+RXRA,Hypothesis-free screen (NR1H2::RXRA),16.51,5/37,42.8,8/37,59.7,9/37,57.4,22 (3),0 / 0,1 / 17 (-0.16),-0.23 (0),not tested
+REST,Hypothesis-free motif screen,14.36,11/125,52.2,13/125,57.5,13/125,64.3,0 (0),0 / 0,not tested,not tested,not tested

@@ -1,0 +1,17 @@
+TF,experiments_total,experiments_binding_MIF,fraction_binding,MIF_score_percentile_among_targets,cell_types,note
+SP1,48,17,0.354,57.3,A549; Dermal_fibroblast; GM12878; HCT_116; Hep_G2; HuH-7; K-562; Liver; hESC_H1; hESC_HUES64,
+RELA,347,70,0.202,77.2,786-O; FaDu; GM12878; GM12891; GM12892; GM15510; GM18951; HAEC; HUVEC; Head_and_neck_squamous_cell_carcinoma; K-562; KB; LoVo; SUM_149PT; Th1_Cells; U2OS,
+NFKB1,40,3,0.075,81.0,HBL-1; L-1236,
+HIF1A,142,79,0.556,99.6,501A; 786-O; A549; BEAS-2B; EA.hy926; FaDu; HCT_116; HK-2; HKC8; HeLa; Hep_G2; LNCAP; MB_157; MDA-MB-231; Macrophages; NCI-H460; PANC-1; PC-3; RCC4; Renal_cell_carcinoma; Renal_tubular_cells; SK-N-BE(2); T-47D; U2OS,
+TFAP2A,47,29,0.617,96.7,92-1; A-375; DTC1; GP5d; HeLa; M21; SK-N-MC; SU-CCS-1; hESC_H9; hESC_derived_neural_crests; hESC_derived_trophoblast_cells; iPS_cells,
+EGR1,85,26,0.306,78.2,ECC-1; Fibroblasts; GM12878; HCT_116; HeLa; Hep_G2; K-562; Kasumi-1; MCF-7; U2OS; hESC_H1,
+KLF4,50,8,0.16,68.6,BJ; Keratinocytes; LAPC-4; Pulmonary_artery_endothelial_cells; T/C28a2,
+IRF1,55,5,0.091,42.0,K-562; LoVo,
+IRF2,7,1,0.143,4.0,Hep_G2,
+NFIL3,2,1,0.5,57.7,Hep_G2,
+ESR1,1270,211,0.166,84.5,AB555; Breast_cancer; Breast_cancer_cells; Endometrium; FULR; HCI005; Ishikawa; LNCAP; MCF-7; MDA-MB-134-VI; MDA-MB-231; MDA-MB-453; SUM_44PE; T-47D; Tumour_tissues; U2OS; ZR-75-1,
+TP53,392,19,0.048,96.2,Acute_myeloid_leukemia; Dermal_fibroblast; Fibroblasts; HCT_116; MCF-7; MDA-MB-231; Osteoblasts; PC-9; SW_480; U2OS,
+NR1H2,11,0,,,,no peak within 1 kb of MIF TSS in any experiment
+RXRA,37,5,0.135,42.8,Hep_G2; Liver; SUM_159PT,
+MYC,385,184,0.478,84.8,22Rv1; 293; 786-O; A549; BE(2)-C; BJ; BL-41; BT-549; DU_145; GM12878; GP5d; HCT_116; HUVEC; HeLa; Hep_G2; Jurkat; K-562; KELLY; KP4; LNCAP; LoVo; MCF-7; MCF_10A; MDA-MB-231; MDA-MB-453 ...,
+REST,125,11,0.088,52.2,HL-60; HeLa; Hep_G2; K-562; Liver; PANC-1; PFSK-1; SK-N-SH; U-87_MG; hESC_derived_neural_cells,

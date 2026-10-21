@@ -1,0 +1,8 @@
+dataset,model,c_index,sd
+cBioPortal (n=510),Multi-gene LASSO,0.614,0.047
+cBioPortal (n=510),RELA alone,0.59,0.046
+cBioPortal (n=510),MIF alone,0.572,0.047
+cBioPortal (n=510),Random survival forest,0.663,0.045
+Xena (n=530),Multi-gene LASSO,0.643,0.044
+Xena (n=530),RELA alone,0.54,0.044
+Xena (n=530),MIF alone,0.545,0.046

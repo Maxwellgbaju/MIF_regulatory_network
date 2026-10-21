@@ -1,0 +1,1601 @@
+cancer,set,n_genes,partial_rho,rank_in_cancer
+Uveal Melanoma,TNF-alpha Signaling via NF-kB,198,-0.044992885701867484,36.0
+Uveal Melanoma,Hypoxia,197,0.07914623753653885,14.0
+Uveal Melanoma,Cholesterol Homeostasis,74,0.11372063681949322,10.0
+Uveal Melanoma,Mitotic Spindle,198,-0.13705668317702216,45.0
+Uveal Melanoma,Wnt-beta Catenin Signaling,42,-0.04438327868388266,35.0
+Uveal Melanoma,TGF-beta Signaling,54,-0.11662302742951175,41.0
+Uveal Melanoma,IL-6/JAK/STAT3 Signaling,83,0.07305535990200251,16.0
+Uveal Melanoma,DNA Repair,149,0.04052254542667591,20.0
+Uveal Melanoma,G2-M Checkpoint,199,-0.13444795550384772,44.0
+Uveal Melanoma,Apoptosis,160,0.03716844590225209,21.0
+Uveal Melanoma,Notch Signaling,32,-0.025962005442205078,29.0
+Uveal Melanoma,Adipogenesis,199,0.033918562288084084,22.0
+Uveal Melanoma,Estrogen Response Early,198,0.06101060070160765,18.0
+Uveal Melanoma,Estrogen Response Late,197,0.16444259492860502,7.0
+Uveal Melanoma,Androgen Response,99,-0.16294699712456157,47.0
+Uveal Melanoma,Myogenesis,199,0.22657792483995778,4.0
+Uveal Melanoma,Protein Secretion,95,-0.15325592183152997,46.0
+Uveal Melanoma,Interferon Alpha Response,97,0.08859532489957109,13.0
+Uveal Melanoma,Interferon Gamma Response,197,0.021995838958338513,23.0
+Uveal Melanoma,Apical Junction,197,0.1785141437860572,5.0
+Uveal Melanoma,Apical Surface,44,-0.03187590808827961,32.0
+Uveal Melanoma,Hedgehog Signaling,36,0.008144867887828741,27.0
+Uveal Melanoma,Complement,199,0.06715419067854306,17.0
+Uveal Melanoma,Unfolded Protein Response,112,-0.026923955794516806,30.0
+Uveal Melanoma,PI3K/AKT/mTOR  Signaling,104,-0.03319856803659063,33.0
+Uveal Melanoma,mTORC1 Signaling,199,0.01901878152976607,24.0
+Uveal Melanoma,E2F Targets,200,-0.10334888925377038,40.0
+Uveal Melanoma,Myc Targets V1,199,-0.1823950046491318,48.0
+Uveal Melanoma,Myc Targets V2,57,0.100324357986092,11.0
+Uveal Melanoma,Epithelial Mesenchymal Transition,200,0.2380833391873999,3.0
+Uveal Melanoma,Inflammatory Response,199,0.047003694983873835,19.0
+Uveal Melanoma,Xenobiotic Metabolism,199,0.12199102113363637,9.0
+Uveal Melanoma,Fatty Acid Metabolism,156,-0.041344397351494304,34.0
+Uveal Melanoma,Oxidative Phosphorylation,198,0.09897805150647218,12.0
+Uveal Melanoma,Glycolysis,198,0.13783786298437012,8.0
+Uveal Melanoma,Reactive Oxygen Species Pathway,48,0.2801797979986025,2.0
+Uveal Melanoma,p53 Pathway,199,0.01343150202980671,25.0
+Uveal Melanoma,UV Response Up,157,0.07651464709050546,15.0
+Uveal Melanoma,UV Response Dn,143,-0.2795559995757198,50.0
+Uveal Melanoma,Angiogenesis,36,0.1706923825590912,6.0
+Uveal Melanoma,heme Metabolism,199,-0.11874207208992721,42.0
+Uveal Melanoma,Coagulation,138,0.3061098366007273,1.0
+Uveal Melanoma,IL-2/STAT5 Signaling,197,-0.030170485494066333,31.0
+Uveal Melanoma,Bile Acid Metabolism,111,-0.12541657983521393,43.0
+Uveal Melanoma,Pperoxisome,103,-0.046111396624203896,37.0
+Uveal Melanoma,Allograft Rejection,199,0.008826981462459357,26.0
+Uveal Melanoma,Spermatogenesis,126,-0.1969619779669536,49.0
+Uveal Melanoma,KRAS Signaling Up,198,-0.07758905883957662,39.0
+Uveal Melanoma,KRAS Signaling Dn,197,-0.008657500606934643,28.0
+Uveal Melanoma,Pancreas Beta Cells,40,-0.0602337556793499,38.0
+Uterine Corpus Endometrioid Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.13112713125188755,26.0
+Uterine Corpus Endometrioid Carcinoma,Hypoxia,198,-0.08830611749333504,16.0
+Uterine Corpus Endometrioid Carcinoma,Cholesterol Homeostasis,74,-0.051512111665041646,9.0
+Uterine Corpus Endometrioid Carcinoma,Mitotic Spindle,198,-0.1720564908537343,35.0
+Uterine Corpus Endometrioid Carcinoma,Wnt-beta Catenin Signaling,42,-0.1736690597524989,36.0
+Uterine Corpus Endometrioid Carcinoma,TGF-beta Signaling,54,-0.22742197478818085,45.0
+Uterine Corpus Endometrioid Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.1777004721279664,37.0
+Uterine Corpus Endometrioid Carcinoma,DNA Repair,149,-0.01413096316280973,5.0
+Uterine Corpus Endometrioid Carcinoma,G2-M Checkpoint,199,-0.10499002742538642,20.0
+Uterine Corpus Endometrioid Carcinoma,Apoptosis,160,-0.11265437121703105,23.0
+Uterine Corpus Endometrioid Carcinoma,Notch Signaling,32,-0.15527915017262836,33.0
+Uterine Corpus Endometrioid Carcinoma,Adipogenesis,200,-0.022419725684973323,6.0
+Uterine Corpus Endometrioid Carcinoma,Estrogen Response Early,198,-0.1325860374459791,27.0
+Uterine Corpus Endometrioid Carcinoma,Estrogen Response Late,197,-0.06175066376861824,12.0
+Uterine Corpus Endometrioid Carcinoma,Androgen Response,99,-0.21346143834678713,42.0
+Uterine Corpus Endometrioid Carcinoma,Myogenesis,199,-0.13305565107563022,28.0
+Uterine Corpus Endometrioid Carcinoma,Protein Secretion,95,-0.21999140535900935,44.0
+Uterine Corpus Endometrioid Carcinoma,Interferon Alpha Response,97,-0.12525375780632989,24.0
+Uterine Corpus Endometrioid Carcinoma,Interferon Gamma Response,197,-0.13756770245987868,30.0
+Uterine Corpus Endometrioid Carcinoma,Apical Junction,197,-0.13628099919734085,29.0
+Uterine Corpus Endometrioid Carcinoma,Apical Surface,44,-0.20221192241041286,39.0
+Uterine Corpus Endometrioid Carcinoma,Hedgehog Signaling,36,-0.2758695161930807,47.0
+Uterine Corpus Endometrioid Carcinoma,Complement,200,-0.1639088388407647,34.0
+Uterine Corpus Endometrioid Carcinoma,Unfolded Protein Response,112,-0.09694512598532427,19.0
+Uterine Corpus Endometrioid Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.1111018461662967,22.0
+Uterine Corpus Endometrioid Carcinoma,mTORC1 Signaling,199,-0.06407139194557586,14.0
+Uterine Corpus Endometrioid Carcinoma,E2F Targets,200,-0.06221944101727401,13.0
+Uterine Corpus Endometrioid Carcinoma,Myc Targets V1,199,-0.06017529183193094,11.0
+Uterine Corpus Endometrioid Carcinoma,Myc Targets V2,57,-0.03849647862790724,7.0
+Uterine Corpus Endometrioid Carcinoma,Epithelial Mesenchymal Transition,200,-0.09664952549633557,18.0
+Uterine Corpus Endometrioid Carcinoma,Inflammatory Response,200,-0.20289206411606314,40.0
+Uterine Corpus Endometrioid Carcinoma,Xenobiotic Metabolism,199,-0.04885262130400866,8.0
+Uterine Corpus Endometrioid Carcinoma,Fatty Acid Metabolism,156,-0.05186703842917253,10.0
+Uterine Corpus Endometrioid Carcinoma,Oxidative Phosphorylation,198,0.13080836162388373,2.0
+Uterine Corpus Endometrioid Carcinoma,Glycolysis,198,-0.006105537259364851,3.0
+Uterine Corpus Endometrioid Carcinoma,Reactive Oxygen Species Pathway,48,0.16511135880067904,1.0
+Uterine Corpus Endometrioid Carcinoma,p53 Pathway,199,-0.012869548453668759,4.0
+Uterine Corpus Endometrioid Carcinoma,UV Response Up,157,-0.10842979162344354,21.0
+Uterine Corpus Endometrioid Carcinoma,UV Response Dn,143,-0.343745499245363,50.0
+Uterine Corpus Endometrioid Carcinoma,Angiogenesis,36,-0.15270165943003822,31.0
+Uterine Corpus Endometrioid Carcinoma,heme Metabolism,199,-0.21119206202631952,41.0
+Uterine Corpus Endometrioid Carcinoma,Coagulation,138,-0.07609306212777725,15.0
+Uterine Corpus Endometrioid Carcinoma,IL-2/STAT5 Signaling,197,-0.15386599097678552,32.0
+Uterine Corpus Endometrioid Carcinoma,Bile Acid Metabolism,111,-0.21440137141323565,43.0
+Uterine Corpus Endometrioid Carcinoma,Pperoxisome,103,-0.1290753314538378,25.0
+Uterine Corpus Endometrioid Carcinoma,Allograft Rejection,200,-0.09560159958290698,17.0
+Uterine Corpus Endometrioid Carcinoma,Spermatogenesis,133,-0.3172434113313572,49.0
+Uterine Corpus Endometrioid Carcinoma,KRAS Signaling Up,198,-0.24297300048739284,46.0
+Uterine Corpus Endometrioid Carcinoma,KRAS Signaling Dn,200,-0.28062760174585566,48.0
+Uterine Corpus Endometrioid Carcinoma,Pancreas Beta Cells,40,-0.17941371345527238,38.0
+Uterine Carcinosarcoma,TNF-alpha Signaling via NF-kB,198,-0.09875037156304518,11.0
+Uterine Carcinosarcoma,Hypoxia,198,-0.046219582728757334,9.0
+Uterine Carcinosarcoma,Cholesterol Homeostasis,74,-0.1436747217022372,17.0
+Uterine Carcinosarcoma,Mitotic Spindle,198,-0.36738339448792595,42.0
+Uterine Carcinosarcoma,Wnt-beta Catenin Signaling,42,-0.4912038374449214,50.0
+Uterine Carcinosarcoma,TGF-beta Signaling,54,-0.30190436677204013,37.0
+Uterine Carcinosarcoma,IL-6/JAK/STAT3 Signaling,83,-0.036152490275224415,8.0
+Uterine Carcinosarcoma,DNA Repair,149,-0.18513760562341147,24.0
+Uterine Carcinosarcoma,G2-M Checkpoint,199,-0.31242638713676807,38.0
+Uterine Carcinosarcoma,Apoptosis,160,-0.008848194161975187,7.0
+Uterine Carcinosarcoma,Notch Signaling,32,-0.4431611046395156,49.0
+Uterine Carcinosarcoma,Adipogenesis,200,-0.19637320364074914,26.0
+Uterine Carcinosarcoma,Estrogen Response Early,198,-0.28335204658637203,36.0
+Uterine Carcinosarcoma,Estrogen Response Late,197,-0.1317775488373359,12.0
+Uterine Carcinosarcoma,Androgen Response,99,-0.31612300389695785,39.0
+Uterine Carcinosarcoma,Myogenesis,199,-0.4209202580903874,46.0
+Uterine Carcinosarcoma,Protein Secretion,95,-0.23821967782122042,32.0
+Uterine Carcinosarcoma,Interferon Alpha Response,97,0.1991089138792176,1.0
+Uterine Carcinosarcoma,Interferon Gamma Response,197,0.09812447702528984,3.0
+Uterine Carcinosarcoma,Apical Junction,197,-0.1539847266935135,18.0
+Uterine Carcinosarcoma,Apical Surface,44,-0.2251652520490825,29.0
+Uterine Carcinosarcoma,Hedgehog Signaling,36,-0.43498292941418343,48.0
+Uterine Carcinosarcoma,Complement,200,-0.13800431541525388,14.0
+Uterine Carcinosarcoma,Unfolded Protein Response,112,-0.1999821566210586,27.0
+Uterine Carcinosarcoma,PI3K/AKT/mTOR  Signaling,105,-0.28132881198843895,35.0
+Uterine Carcinosarcoma,mTORC1 Signaling,199,-0.15446031650275852,19.0
+Uterine Carcinosarcoma,E2F Targets,200,-0.2610787696260071,33.0
+Uterine Carcinosarcoma,Myc Targets V1,199,-0.18398480138072656,23.0
+Uterine Carcinosarcoma,Myc Targets V2,57,-0.1795764192916473,22.0
+Uterine Carcinosarcoma,Epithelial Mesenchymal Transition,200,0.016133128896059452,6.0
+Uterine Carcinosarcoma,Inflammatory Response,200,-0.1395649156845323,16.0
+Uterine Carcinosarcoma,Xenobiotic Metabolism,199,-0.16232384259931376,20.0
+Uterine Carcinosarcoma,Fatty Acid Metabolism,156,-0.23282051604348594,30.0
+Uterine Carcinosarcoma,Oxidative Phosphorylation,198,0.04776647090009174,4.0
+Uterine Carcinosarcoma,Glycolysis,198,-0.04632824592834553,10.0
+Uterine Carcinosarcoma,Reactive Oxygen Species Pathway,48,0.15846153445986702,2.0
+Uterine Carcinosarcoma,p53 Pathway,199,-0.17423220022494335,21.0
+Uterine Carcinosarcoma,UV Response Up,157,-0.21801033763312364,28.0
+Uterine Carcinosarcoma,UV Response Dn,143,-0.42601367749906016,47.0
+Uterine Carcinosarcoma,Angiogenesis,36,-0.19465742275955236,25.0
+Uterine Carcinosarcoma,heme Metabolism,199,-0.3714431870232296,43.0
+Uterine Carcinosarcoma,Coagulation,138,0.017452386499020332,5.0
+Uterine Carcinosarcoma,IL-2/STAT5 Signaling,197,-0.13766968265625493,13.0
+Uterine Carcinosarcoma,Bile Acid Metabolism,111,-0.34414416677382575,40.0
+Uterine Carcinosarcoma,Pperoxisome,103,-0.2771398644780504,34.0
+Uterine Carcinosarcoma,Allograft Rejection,200,-0.13823017176648908,15.0
+Uterine Carcinosarcoma,Spermatogenesis,133,-0.4132498716315559,45.0
+Uterine Carcinosarcoma,KRAS Signaling Up,198,-0.23411442081719872,31.0
+Uterine Carcinosarcoma,KRAS Signaling Dn,200,-0.3661900620551967,41.0
+Uterine Carcinosarcoma,Pancreas Beta Cells,40,-0.3831528116470854,44.0
+Thyroid Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.16143967416114124,22.0
+Thyroid Carcinoma,Hypoxia,198,-0.1516913988832287,16.0
+Thyroid Carcinoma,Cholesterol Homeostasis,74,-0.20484607186927062,35.0
+Thyroid Carcinoma,Mitotic Spindle,198,-0.2597743299056794,45.0
+Thyroid Carcinoma,Wnt-beta Catenin Signaling,42,-0.14579117405091216,15.0
+Thyroid Carcinoma,TGF-beta Signaling,54,-0.24052668122705326,43.0
+Thyroid Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.20169262333971774,32.0
+Thyroid Carcinoma,DNA Repair,149,-0.08248034381090733,5.0
+Thyroid Carcinoma,G2-M Checkpoint,199,-0.2725549017162035,47.0
+Thyroid Carcinoma,Apoptosis,160,-0.17469967740945322,25.0
+Thyroid Carcinoma,Notch Signaling,32,-0.13184593803462327,12.0
+Thyroid Carcinoma,Adipogenesis,200,-0.15283051394303537,17.0
+Thyroid Carcinoma,Estrogen Response Early,198,-0.2044546154830908,34.0
+Thyroid Carcinoma,Estrogen Response Late,197,-0.1535559202190091,18.0
+Thyroid Carcinoma,Androgen Response,99,-0.3001394375543899,49.0
+Thyroid Carcinoma,Myogenesis,199,-0.0660490994351716,3.0
+Thyroid Carcinoma,Protein Secretion,95,-0.29246383146870264,48.0
+Thyroid Carcinoma,Interferon Alpha Response,97,-0.13704109438615159,13.0
+Thyroid Carcinoma,Interferon Gamma Response,197,-0.15630860440496838,21.0
+Thyroid Carcinoma,Apical Junction,197,-0.17560628111206955,26.0
+Thyroid Carcinoma,Apical Surface,44,-0.16193502743158084,23.0
+Thyroid Carcinoma,Hedgehog Signaling,36,-0.22983134978591088,41.0
+Thyroid Carcinoma,Complement,200,-0.20660905184779774,36.0
+Thyroid Carcinoma,Unfolded Protein Response,112,-0.19912215223016796,31.0
+Thyroid Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.2184588657403531,38.0
+Thyroid Carcinoma,mTORC1 Signaling,199,-0.2264188092498473,40.0
+Thyroid Carcinoma,E2F Targets,200,-0.2377544063073601,42.0
+Thyroid Carcinoma,Myc Targets V1,199,-0.19316797044292028,29.0
+Thyroid Carcinoma,Myc Targets V2,57,-0.137156398604179,14.0
+Thyroid Carcinoma,Epithelial Mesenchymal Transition,200,-0.15431323026258276,19.0
+Thyroid Carcinoma,Inflammatory Response,200,-0.22240153472314866,39.0
+Thyroid Carcinoma,Xenobiotic Metabolism,199,-0.08080590686672862,4.0
+Thyroid Carcinoma,Fatty Acid Metabolism,156,-0.16571123956754738,24.0
+Thyroid Carcinoma,Oxidative Phosphorylation,198,-0.021097429668003584,1.0
+Thyroid Carcinoma,Glycolysis,198,-0.12040371661695674,9.0
+Thyroid Carcinoma,Reactive Oxygen Species Pathway,48,-0.03551576469732045,2.0
+Thyroid Carcinoma,p53 Pathway,199,-0.10055941881104039,8.0
+Thyroid Carcinoma,UV Response Up,157,-0.15584733117572072,20.0
+Thyroid Carcinoma,UV Response Dn,143,-0.30481656615457536,50.0
+Thyroid Carcinoma,Angiogenesis,36,-0.18494541921410326,28.0
+Thyroid Carcinoma,heme Metabolism,199,-0.26460710165164913,46.0
+Thyroid Carcinoma,Coagulation,138,-0.08443800196188576,6.0
+Thyroid Carcinoma,IL-2/STAT5 Signaling,197,-0.20444885511934394,33.0
+Thyroid Carcinoma,Bile Acid Metabolism,111,-0.19452954200011868,30.0
+Thyroid Carcinoma,Pperoxisome,103,-0.1799057458566937,27.0
+Thyroid Carcinoma,Allograft Rejection,200,-0.12225007407210284,10.0
+Thyroid Carcinoma,Spermatogenesis,133,-0.21783819502811985,37.0
+Thyroid Carcinoma,KRAS Signaling Up,198,-0.2434559792879389,44.0
+Thyroid Carcinoma,KRAS Signaling Dn,200,-0.1295885680713439,11.0
+Thyroid Carcinoma,Pancreas Beta Cells,40,-0.09705223149887286,7.0
+Thymoma,TNF-alpha Signaling via NF-kB,198,-0.64919599267196,38.0
+Thymoma,Hypoxia,198,-0.650794401882367,39.0
+Thymoma,Cholesterol Homeostasis,74,-0.582778996142128,23.0
+Thymoma,Mitotic Spindle,198,-0.5505036840586477,21.0
+Thymoma,Wnt-beta Catenin Signaling,42,-0.6474341978917053,36.0
+Thymoma,TGF-beta Signaling,54,-0.6954130037875598,48.0
+Thymoma,IL-6/JAK/STAT3 Signaling,83,-0.6203982732994917,27.0
+Thymoma,DNA Repair,149,-0.2798502519693877,6.0
+Thymoma,G2-M Checkpoint,199,-0.20824356931149132,5.0
+Thymoma,Apoptosis,160,-0.6682723943840466,44.0
+Thymoma,Notch Signaling,32,-0.635971418062643,32.0
+Thymoma,Adipogenesis,200,-0.4858268842731845,15.0
+Thymoma,Estrogen Response Early,198,-0.646807614542068,35.0
+Thymoma,Estrogen Response Late,197,-0.5347263010834624,19.0
+Thymoma,Androgen Response,99,-0.6591931157094136,40.0
+Thymoma,Myogenesis,199,-0.5912355714739147,24.0
+Thymoma,Protein Secretion,95,-0.6927150293343707,47.0
+Thymoma,Interferon Alpha Response,97,-0.2963209247200769,7.0
+Thymoma,Interferon Gamma Response,197,-0.39085520894692066,10.0
+Thymoma,Apical Junction,197,-0.6412706012009901,33.0
+Thymoma,Apical Surface,44,-0.6622279774140144,42.0
+Thymoma,Hedgehog Signaling,36,-0.6679092046480732,43.0
+Thymoma,Complement,200,-0.6615141499586957,41.0
+Thymoma,Unfolded Protein Response,112,-0.46622982747174774,13.0
+Thymoma,PI3K/AKT/mTOR  Signaling,105,-0.5528618977759124,22.0
+Thymoma,mTORC1 Signaling,199,-0.3209620795844414,8.0
+Thymoma,E2F Targets,200,-0.03576763748646676,3.0
+Thymoma,Myc Targets V1,199,-0.0778711685415294,4.0
+Thymoma,Myc Targets V2,57,0.10854427268540705,1.0
+Thymoma,Epithelial Mesenchymal Transition,200,-0.6020139913127684,25.0
+Thymoma,Inflammatory Response,200,-0.6489758028745046,37.0
+Thymoma,Xenobiotic Metabolism,199,-0.621716258095347,28.0
+Thymoma,Fatty Acid Metabolism,156,-0.4838062989628266,14.0
+Thymoma,Oxidative Phosphorylation,198,0.015927478125313633,2.0
+Thymoma,Glycolysis,198,-0.5255697553186697,18.0
+Thymoma,Reactive Oxygen Species Pathway,48,-0.33587522623700833,9.0
+Thymoma,p53 Pathway,199,-0.6264135538864345,30.0
+Thymoma,UV Response Up,157,-0.4963288282668377,16.0
+Thymoma,UV Response Dn,143,-0.7387954451705557,50.0
+Thymoma,Angiogenesis,36,-0.6835716925996357,45.0
+Thymoma,heme Metabolism,199,-0.6922179887208856,46.0
+Thymoma,Coagulation,138,-0.6340630306308193,31.0
+Thymoma,IL-2/STAT5 Signaling,197,-0.6433952358232536,34.0
+Thymoma,Bile Acid Metabolism,111,-0.6232315004764666,29.0
+Thymoma,Pperoxisome,103,-0.5404964567568897,20.0
+Thymoma,Allograft Rejection,200,-0.39755137386016004,11.0
+Thymoma,Spermatogenesis,133,-0.5223121657602143,17.0
+Thymoma,KRAS Signaling Up,198,-0.6984258943453252,49.0
+Thymoma,KRAS Signaling Dn,200,-0.6138618444521874,26.0
+Thymoma,Pancreas Beta Cells,40,-0.4492975268858022,12.0
+Testicular Germ Cell Tumor,TNF-alpha Signaling via NF-kB,198,-0.08906848232549636,10.0
+Testicular Germ Cell Tumor,Hypoxia,198,-0.028694555300982163,7.0
+Testicular Germ Cell Tumor,Cholesterol Homeostasis,74,-0.18270591485804116,18.0
+Testicular Germ Cell Tumor,Mitotic Spindle,198,-0.4389965805978934,47.0
+Testicular Germ Cell Tumor,Wnt-beta Catenin Signaling,42,-0.29615828788151305,32.0
+Testicular Germ Cell Tumor,TGF-beta Signaling,54,-0.3218812377539293,34.0
+Testicular Germ Cell Tumor,IL-6/JAK/STAT3 Signaling,83,-0.21020308962538167,21.0
+Testicular Germ Cell Tumor,DNA Repair,149,-0.2171493775198625,23.0
+Testicular Germ Cell Tumor,G2-M Checkpoint,199,-0.21106680849978735,22.0
+Testicular Germ Cell Tumor,Apoptosis,160,-0.29952978977394124,33.0
+Testicular Germ Cell Tumor,Notch Signaling,32,-0.3626027517178437,39.0
+Testicular Germ Cell Tumor,Adipogenesis,200,-0.2616751577839804,29.0
+Testicular Germ Cell Tumor,Estrogen Response Early,198,-0.37481539973220734,40.0
+Testicular Germ Cell Tumor,Estrogen Response Late,197,-0.19820556602756131,19.0
+Testicular Germ Cell Tumor,Androgen Response,99,-0.4345362975841789,45.0
+Testicular Germ Cell Tumor,Myogenesis,199,-0.2829479516800582,30.0
+Testicular Germ Cell Tumor,Protein Secretion,95,-0.4209715470640758,44.0
+Testicular Germ Cell Tumor,Interferon Alpha Response,97,0.044007421304160015,4.0
+Testicular Germ Cell Tumor,Interferon Gamma Response,197,-0.017748830767106195,6.0
+Testicular Germ Cell Tumor,Apical Junction,197,-0.4193339715452921,43.0
+Testicular Germ Cell Tumor,Apical Surface,44,-0.44499275079874395,48.0
+Testicular Germ Cell Tumor,Hedgehog Signaling,36,-0.40006373957050256,42.0
+Testicular Germ Cell Tumor,Complement,200,-0.2919760919757492,31.0
+Testicular Germ Cell Tumor,Unfolded Protein Response,112,-0.12294455088052032,12.0
+Testicular Germ Cell Tumor,PI3K/AKT/mTOR  Signaling,105,-0.34567085673502057,37.0
+Testicular Germ Cell Tumor,mTORC1 Signaling,199,0.0013092589037353346,5.0
+Testicular Germ Cell Tumor,E2F Targets,200,-0.12657111579540278,13.0
+Testicular Germ Cell Tumor,Myc Targets V1,199,0.09954980316298188,3.0
+Testicular Germ Cell Tumor,Myc Targets V2,57,0.15394161206758752,2.0
+Testicular Germ Cell Tumor,Epithelial Mesenchymal Transition,200,-0.14559897591977725,15.0
+Testicular Germ Cell Tumor,Inflammatory Response,200,-0.10609942235809273,11.0
+Testicular Germ Cell Tumor,Xenobiotic Metabolism,199,-0.23087460265573986,26.0
+Testicular Germ Cell Tumor,Fatty Acid Metabolism,156,-0.32243773760417377,35.0
+Testicular Germ Cell Tumor,Oxidative Phosphorylation,198,0.21880851936177317,1.0
+Testicular Germ Cell Tumor,Glycolysis,198,-0.08400791120754611,9.0
+Testicular Germ Cell Tumor,Reactive Oxygen Species Pathway,48,-0.15388402477170438,17.0
+Testicular Germ Cell Tumor,p53 Pathway,199,-0.14476682567534027,14.0
+Testicular Germ Cell Tumor,UV Response Up,157,-0.23015392071357035,25.0
+Testicular Germ Cell Tumor,UV Response Dn,143,-0.4518419570696466,49.0
+Testicular Germ Cell Tumor,Angiogenesis,36,-0.1497777215192638,16.0
+Testicular Germ Cell Tumor,heme Metabolism,199,-0.43618239674723425,46.0
+Testicular Germ Cell Tumor,Coagulation,138,-0.22738669484610555,24.0
+Testicular Germ Cell Tumor,IL-2/STAT5 Signaling,197,-0.24451564918648247,27.0
+Testicular Germ Cell Tumor,Bile Acid Metabolism,111,-0.5179405097755257,50.0
+Testicular Germ Cell Tumor,Pperoxisome,103,-0.39908859941411523,41.0
+Testicular Germ Cell Tumor,Allograft Rejection,200,-0.0422758250910905,8.0
+Testicular Germ Cell Tumor,Spermatogenesis,133,-0.2056668299276728,20.0
+Testicular Germ Cell Tumor,KRAS Signaling Up,198,-0.36110868252002576,38.0
+Testicular Germ Cell Tumor,KRAS Signaling Dn,200,-0.34395529568065286,36.0
+Testicular Germ Cell Tumor,Pancreas Beta Cells,40,-0.2544975647930934,28.0
+Stomach Adenocarcinoma,TNF-alpha Signaling via NF-kB,198,0.07104153875360898,17.0
+Stomach Adenocarcinoma,Hypoxia,198,0.01594285692167739,22.0
+Stomach Adenocarcinoma,Cholesterol Homeostasis,74,0.10053098162118473,16.0
+Stomach Adenocarcinoma,Mitotic Spindle,198,-0.024670604526331977,26.0
+Stomach Adenocarcinoma,Wnt-beta Catenin Signaling,42,-0.07710563482255817,31.0
+Stomach Adenocarcinoma,TGF-beta Signaling,54,-0.0787309681180513,32.0
+Stomach Adenocarcinoma,IL-6/JAK/STAT3 Signaling,83,0.036271686868452536,18.0
+Stomach Adenocarcinoma,DNA Repair,149,0.2859684098235369,5.0
+Stomach Adenocarcinoma,G2-M Checkpoint,199,0.2216779111212845,8.0
+Stomach Adenocarcinoma,Apoptosis,160,0.02452534442450479,19.0
+Stomach Adenocarcinoma,Notch Signaling,32,-0.04793250379766944,27.0
+Stomach Adenocarcinoma,Adipogenesis,200,0.019753478803850283,21.0
+Stomach Adenocarcinoma,Estrogen Response Early,198,-0.11488277911445403,36.0
+Stomach Adenocarcinoma,Estrogen Response Late,197,-0.005453303410775889,24.0
+Stomach Adenocarcinoma,Androgen Response,99,-0.14871815255271695,43.0
+Stomach Adenocarcinoma,Myogenesis,199,-0.2775412540658088,47.0
+Stomach Adenocarcinoma,Protein Secretion,95,-0.13294239326352056,39.0
+Stomach Adenocarcinoma,Interferon Alpha Response,97,0.2002410302904967,9.0
+Stomach Adenocarcinoma,Interferon Gamma Response,197,0.1815385421651723,11.0
+Stomach Adenocarcinoma,Apical Junction,197,-0.1421547904084856,40.0
+Stomach Adenocarcinoma,Apical Surface,44,-0.1300627099919393,37.0
+Stomach Adenocarcinoma,Hedgehog Signaling,36,-0.307215674526637,48.0
+Stomach Adenocarcinoma,Complement,200,-0.08203667308800976,33.0
+Stomach Adenocarcinoma,Unfolded Protein Response,112,0.1792853077424603,12.0
+Stomach Adenocarcinoma,PI3K/AKT/mTOR  Signaling,105,0.020564371791752495,20.0
+Stomach Adenocarcinoma,mTORC1 Signaling,199,0.2280984606894086,7.0
+Stomach Adenocarcinoma,E2F Targets,200,0.2995765298323533,4.0
+Stomach Adenocarcinoma,Myc Targets V1,199,0.3610035782106048,2.0
+Stomach Adenocarcinoma,Myc Targets V2,57,0.389157657092986,1.0
+Stomach Adenocarcinoma,Epithelial Mesenchymal Transition,200,-0.10582030348762722,35.0
+Stomach Adenocarcinoma,Inflammatory Response,200,-0.05194622663818655,28.0
+Stomach Adenocarcinoma,Xenobiotic Metabolism,199,-0.06753413988862582,30.0
+Stomach Adenocarcinoma,Fatty Acid Metabolism,156,-0.00427266399257287,23.0
+Stomach Adenocarcinoma,Oxidative Phosphorylation,198,0.3411760428626873,3.0
+Stomach Adenocarcinoma,Glycolysis,198,0.13270900657024032,13.0
+Stomach Adenocarcinoma,Reactive Oxygen Species Pathway,48,0.27134470856598986,6.0
+Stomach Adenocarcinoma,p53 Pathway,199,0.10877793745490501,15.0
+Stomach Adenocarcinoma,UV Response Up,157,0.12911389138674642,14.0
+Stomach Adenocarcinoma,UV Response Dn,143,-0.35219942102087665,50.0
+Stomach Adenocarcinoma,Angiogenesis,36,-0.14568278950951266,42.0
+Stomach Adenocarcinoma,heme Metabolism,199,-0.1327019550568094,38.0
+Stomach Adenocarcinoma,Coagulation,138,-0.14338455251036103,41.0
+Stomach Adenocarcinoma,IL-2/STAT5 Signaling,197,-0.0945160820386675,34.0
+Stomach Adenocarcinoma,Bile Acid Metabolism,111,-0.2528774494927401,44.0
+Stomach Adenocarcinoma,Pperoxisome,103,-0.024350215398719885,25.0
+Stomach Adenocarcinoma,Allograft Rejection,200,0.19502103275023094,10.0
+Stomach Adenocarcinoma,Spermatogenesis,133,-0.06089184226033304,29.0
+Stomach Adenocarcinoma,KRAS Signaling Up,198,-0.26341802984159957,45.0
+Stomach Adenocarcinoma,KRAS Signaling Dn,200,-0.27600005436805725,46.0
+Stomach Adenocarcinoma,Pancreas Beta Cells,40,-0.3396874359790769,49.0
+Skin Cutaneous Melanoma,TNF-alpha Signaling via NF-kB,198,-0.18234006611762182,40.0
+Skin Cutaneous Melanoma,Hypoxia,198,-0.07126454813358829,8.0
+Skin Cutaneous Melanoma,Cholesterol Homeostasis,74,-0.1561531807873411,35.0
+Skin Cutaneous Melanoma,Mitotic Spindle,198,-0.14871295438774118,33.0
+Skin Cutaneous Melanoma,Wnt-beta Catenin Signaling,42,-0.08463573507238446,12.0
+Skin Cutaneous Melanoma,TGF-beta Signaling,54,-0.1782225454313781,39.0
+Skin Cutaneous Melanoma,IL-6/JAK/STAT3 Signaling,83,-0.21061453790669535,46.0
+Skin Cutaneous Melanoma,DNA Repair,149,-0.02141640813614125,5.0
+Skin Cutaneous Melanoma,G2-M Checkpoint,199,-0.1229575756165439,26.0
+Skin Cutaneous Melanoma,Apoptosis,160,-0.19610025938595324,41.0
+Skin Cutaneous Melanoma,Notch Signaling,32,-0.08448331352105212,11.0
+Skin Cutaneous Melanoma,Adipogenesis,200,-0.10446892159735104,18.0
+Skin Cutaneous Melanoma,Estrogen Response Early,198,-0.13214052174195684,29.0
+Skin Cutaneous Melanoma,Estrogen Response Late,197,-0.12167809983072188,24.0
+Skin Cutaneous Melanoma,Androgen Response,99,-0.27081038843266925,50.0
+Skin Cutaneous Melanoma,Myogenesis,199,-0.014117806122574874,4.0
+Skin Cutaneous Melanoma,Protein Secretion,95,-0.26529939247259665,49.0
+Skin Cutaneous Melanoma,Interferon Alpha Response,97,-0.1022172415009134,16.0
+Skin Cutaneous Melanoma,Interferon Gamma Response,197,-0.1457069474527568,31.0
+Skin Cutaneous Melanoma,Apical Junction,197,-0.10847287417285091,19.0
+Skin Cutaneous Melanoma,Apical Surface,44,-0.13685567394868736,30.0
+Skin Cutaneous Melanoma,Hedgehog Signaling,36,-0.09586258062641491,15.0
+Skin Cutaneous Melanoma,Complement,200,-0.19984461238312373,43.0
+Skin Cutaneous Melanoma,Unfolded Protein Response,112,-0.10849646702769937,20.0
+Skin Cutaneous Melanoma,PI3K/AKT/mTOR  Signaling,105,-0.14842007090941328,32.0
+Skin Cutaneous Melanoma,mTORC1 Signaling,199,-0.12641291292423687,28.0
+Skin Cutaneous Melanoma,E2F Targets,200,-0.10249739401583123,17.0
+Skin Cutaneous Melanoma,Myc Targets V1,199,-0.11310647278946578,21.0
+Skin Cutaneous Melanoma,Myc Targets V2,57,0.013232246061335638,2.0
+Skin Cutaneous Melanoma,Epithelial Mesenchymal Transition,200,-0.0888575817493649,14.0
+Skin Cutaneous Melanoma,Inflammatory Response,200,-0.19829415224219712,42.0
+Skin Cutaneous Melanoma,Xenobiotic Metabolism,199,-0.07414528149183505,9.0
+Skin Cutaneous Melanoma,Fatty Acid Metabolism,156,-0.12291481379989391,25.0
+Skin Cutaneous Melanoma,Oxidative Phosphorylation,198,0.0074282225402615785,3.0
+Skin Cutaneous Melanoma,Glycolysis,198,-0.042748022327471116,6.0
+Skin Cutaneous Melanoma,Reactive Oxygen Species Pathway,48,0.04476241629258898,1.0
+Skin Cutaneous Melanoma,p53 Pathway,199,-0.1620607797242487,36.0
+Skin Cutaneous Melanoma,UV Response Up,157,-0.0841817818054657,10.0
+Skin Cutaneous Melanoma,UV Response Dn,143,-0.2431377579416826,48.0
+Skin Cutaneous Melanoma,Angiogenesis,36,-0.11891426757675742,22.0
+Skin Cutaneous Melanoma,heme Metabolism,199,-0.20383025820921327,45.0
+Skin Cutaneous Melanoma,Coagulation,138,-0.08549053141336131,13.0
+Skin Cutaneous Melanoma,IL-2/STAT5 Signaling,197,-0.16513783961820222,37.0
+Skin Cutaneous Melanoma,Bile Acid Metabolism,111,-0.2309075299676581,47.0
+Skin Cutaneous Melanoma,Pperoxisome,103,-0.12139776752865876,23.0
+Skin Cutaneous Melanoma,Allograft Rejection,200,-0.15122909236657736,34.0
+Skin Cutaneous Melanoma,Spermatogenesis,133,-0.12512208406644348,27.0
+Skin Cutaneous Melanoma,KRAS Signaling Up,198,-0.20042253400302373,44.0
+Skin Cutaneous Melanoma,KRAS Signaling Dn,200,-0.056730084712416085,7.0
+Skin Cutaneous Melanoma,Pancreas Beta Cells,40,-0.173583213495124,38.0
+Sarcoma,TNF-alpha Signaling via NF-kB,198,-0.06746136109401382,17.0
+Sarcoma,Hypoxia,198,0.1197601921614847,2.0
+Sarcoma,Cholesterol Homeostasis,74,-0.016435703015436103,11.0
+Sarcoma,Mitotic Spindle,198,-0.2228108384614344,41.0
+Sarcoma,Wnt-beta Catenin Signaling,42,-0.2561630275474252,44.0
+Sarcoma,TGF-beta Signaling,54,-0.22818047387573248,43.0
+Sarcoma,IL-6/JAK/STAT3 Signaling,83,-0.0780986015069983,19.0
+Sarcoma,DNA Repair,149,-0.04786203267358092,13.0
+Sarcoma,G2-M Checkpoint,199,-0.06933916553294331,18.0
+Sarcoma,Apoptosis,160,-0.15485018830397307,27.0
+Sarcoma,Notch Signaling,32,-0.21614830777810093,40.0
+Sarcoma,Adipogenesis,200,-0.15617095949571644,28.0
+Sarcoma,Estrogen Response Early,198,-0.27064379428552565,47.0
+Sarcoma,Estrogen Response Late,197,-0.2050297276561334,39.0
+Sarcoma,Androgen Response,99,-0.1648337845457597,31.0
+Sarcoma,Myogenesis,199,-0.13748277182971103,21.0
+Sarcoma,Protein Secretion,95,-0.17981281561453336,35.0
+Sarcoma,Interferon Alpha Response,97,-0.16830613032762118,34.0
+Sarcoma,Interferon Gamma Response,197,-0.14752599408761152,24.0
+Sarcoma,Apical Junction,197,-0.1608137558477899,29.0
+Sarcoma,Apical Surface,44,-0.29710962486540227,49.0
+Sarcoma,Hedgehog Signaling,36,-0.20422387195450586,37.0
+Sarcoma,Complement,200,-0.1540063531043108,26.0
+Sarcoma,Unfolded Protein Response,112,-0.0049857968007412,9.0
+Sarcoma,PI3K/AKT/mTOR  Signaling,105,-0.1662139840517338,33.0
+Sarcoma,mTORC1 Signaling,199,0.10796864254843164,3.0
+Sarcoma,E2F Targets,200,-0.023976078518301504,12.0
+Sarcoma,Myc Targets V1,199,0.06028313945223538,7.0
+Sarcoma,Myc Targets V2,57,0.06231704178133879,6.0
+Sarcoma,Epithelial Mesenchymal Transition,200,0.0505023288027804,8.0
+Sarcoma,Inflammatory Response,200,-0.05978651295655379,15.0
+Sarcoma,Xenobiotic Metabolism,199,-0.08108031855632407,20.0
+Sarcoma,Fatty Acid Metabolism,156,-0.16440761552441963,30.0
+Sarcoma,Oxidative Phosphorylation,198,0.07045327457837586,5.0
+Sarcoma,Glycolysis,198,0.12878712962681554,1.0
+Sarcoma,Reactive Oxygen Species Pathway,48,0.08262507943923252,4.0
+Sarcoma,p53 Pathway,199,-0.15199624487879818,25.0
+Sarcoma,UV Response Up,157,-0.06271234914563549,16.0
+Sarcoma,UV Response Dn,143,-0.3496322556250861,50.0
+Sarcoma,Angiogenesis,36,-0.14366183643701796,22.0
+Sarcoma,heme Metabolism,199,-0.26564969039204583,46.0
+Sarcoma,Coagulation,138,-0.05414600878959318,14.0
+Sarcoma,IL-2/STAT5 Signaling,197,-0.1461202820415949,23.0
+Sarcoma,Bile Acid Metabolism,111,-0.2969048963023587,48.0
+Sarcoma,Pperoxisome,103,-0.2044971424783542,38.0
+Sarcoma,Allograft Rejection,200,-0.008663873322923813,10.0
+Sarcoma,Spermatogenesis,133,-0.18487152413202748,36.0
+Sarcoma,KRAS Signaling Up,198,-0.1659199724261681,32.0
+Sarcoma,KRAS Signaling Dn,200,-0.260339198023419,45.0
+Sarcoma,Pancreas Beta Cells,40,-0.2228730937225129,42.0
+Rectum Adenocarcinoma,TNF-alpha Signaling via NF-kB,198,-0.08263215533422381,28.0
+Rectum Adenocarcinoma,Hypoxia,198,-0.03775791726464762,20.0
+Rectum Adenocarcinoma,Cholesterol Homeostasis,74,0.15593679816346914,8.0
+Rectum Adenocarcinoma,Mitotic Spindle,198,-0.01556785293979991,19.0
+Rectum Adenocarcinoma,Wnt-beta Catenin Signaling,42,-0.05672186474997074,22.0
+Rectum Adenocarcinoma,TGF-beta Signaling,54,-0.19672801882349503,40.0
+Rectum Adenocarcinoma,IL-6/JAK/STAT3 Signaling,83,-0.16898818645661998,38.0
+Rectum Adenocarcinoma,DNA Repair,149,0.17143509791466457,5.0
+Rectum Adenocarcinoma,G2-M Checkpoint,199,0.13048484411888947,9.0
+Rectum Adenocarcinoma,Apoptosis,160,0.023812932704411694,15.0
+Rectum Adenocarcinoma,Notch Signaling,32,-0.054138181225210566,21.0
+Rectum Adenocarcinoma,Adipogenesis,200,0.10942822740882102,11.0
+Rectum Adenocarcinoma,Estrogen Response Early,198,-0.1632398589253318,35.0
+Rectum Adenocarcinoma,Estrogen Response Late,197,-0.07764127620913303,26.0
+Rectum Adenocarcinoma,Androgen Response,99,-0.14755558719371223,31.0
+Rectum Adenocarcinoma,Myogenesis,199,-0.20217073690473886,42.0
+Rectum Adenocarcinoma,Protein Secretion,95,-0.16605560131008254,36.0
+Rectum Adenocarcinoma,Interferon Alpha Response,97,-0.21309582500201835,44.0
+Rectum Adenocarcinoma,Interferon Gamma Response,197,-0.16877320445671626,37.0
+Rectum Adenocarcinoma,Apical Junction,197,-0.17203750913669225,39.0
+Rectum Adenocarcinoma,Apical Surface,44,-0.22174814315454058,45.0
+Rectum Adenocarcinoma,Hedgehog Signaling,36,-0.199678623327782,41.0
+Rectum Adenocarcinoma,Complement,200,-0.16053517238607848,34.0
+Rectum Adenocarcinoma,Unfolded Protein Response,112,0.10359088848097427,12.0
+Rectum Adenocarcinoma,PI3K/AKT/mTOR  Signaling,105,-0.006662724073867517,17.0
+Rectum Adenocarcinoma,mTORC1 Signaling,199,0.1606224820158825,7.0
+Rectum Adenocarcinoma,E2F Targets,200,0.21251836241642494,3.0
+Rectum Adenocarcinoma,Myc Targets V1,199,0.22190016516799244,2.0
+Rectum Adenocarcinoma,Myc Targets V2,57,0.27861201048763085,1.0
+Rectum Adenocarcinoma,Epithelial Mesenchymal Transition,200,-0.15318702927041147,32.0
+Rectum Adenocarcinoma,Inflammatory Response,200,-0.20758843253729228,43.0
+Rectum Adenocarcinoma,Xenobiotic Metabolism,199,-0.015248003232874615,18.0
+Rectum Adenocarcinoma,Fatty Acid Metabolism,156,0.04857596327929611,14.0
+Rectum Adenocarcinoma,Oxidative Phosphorylation,198,0.1855165192362325,4.0
+Rectum Adenocarcinoma,Glycolysis,198,0.10329659329072993,13.0
+Rectum Adenocarcinoma,Reactive Oxygen Species Pathway,48,0.1621214885168666,6.0
+Rectum Adenocarcinoma,p53 Pathway,199,-0.05927684256171244,24.0
+Rectum Adenocarcinoma,UV Response Up,157,0.12045189830464657,10.0
+Rectum Adenocarcinoma,UV Response Dn,143,-0.25995956658667013,47.0
+Rectum Adenocarcinoma,Angiogenesis,36,-0.06034757003605938,25.0
+Rectum Adenocarcinoma,heme Metabolism,199,-0.14565986105895448,30.0
+Rectum Adenocarcinoma,Coagulation,138,-0.2779449415727234,49.0
+Rectum Adenocarcinoma,IL-2/STAT5 Signaling,197,-0.11374382653713656,29.0
+Rectum Adenocarcinoma,Bile Acid Metabolism,111,-0.1563554853393976,33.0
+Rectum Adenocarcinoma,Pperoxisome,103,0.012747318610427856,16.0
+Rectum Adenocarcinoma,Allograft Rejection,200,-0.058603694018589524,23.0
+Rectum Adenocarcinoma,Spermatogenesis,133,-0.07836458393597577,27.0
+Rectum Adenocarcinoma,KRAS Signaling Up,198,-0.27101826660931866,48.0
+Rectum Adenocarcinoma,KRAS Signaling Dn,200,-0.2578890721210059,46.0
+Rectum Adenocarcinoma,Pancreas Beta Cells,40,-0.35589326235732827,50.0
+Prostate Adenocarcinoma,TNF-alpha Signaling via NF-kB,198,-0.18043235978053854,35.0
+Prostate Adenocarcinoma,Hypoxia,198,-0.17014831211484316,33.0
+Prostate Adenocarcinoma,Cholesterol Homeostasis,74,-0.08150869816887713,14.0
+Prostate Adenocarcinoma,Mitotic Spindle,198,-0.24567887320792703,46.0
+Prostate Adenocarcinoma,Wnt-beta Catenin Signaling,42,-0.22932500498575337,45.0
+Prostate Adenocarcinoma,TGF-beta Signaling,54,-0.304024166373823,49.0
+Prostate Adenocarcinoma,IL-6/JAK/STAT3 Signaling,83,-0.1610150502965088,31.0
+Prostate Adenocarcinoma,DNA Repair,149,0.01866395819290643,3.0
+Prostate Adenocarcinoma,G2-M Checkpoint,199,-0.1759129450777149,34.0
+Prostate Adenocarcinoma,Apoptosis,160,-0.1608429779266454,29.0
+Prostate Adenocarcinoma,Notch Signaling,32,-0.19990019171597206,40.0
+Prostate Adenocarcinoma,Adipogenesis,200,-0.04082596183563273,9.0
+Prostate Adenocarcinoma,Estrogen Response Early,198,-0.20230102364011404,41.0
+Prostate Adenocarcinoma,Estrogen Response Late,197,-0.1076812714902622,18.0
+Prostate Adenocarcinoma,Androgen Response,99,-0.21490890750215383,42.0
+Prostate Adenocarcinoma,Myogenesis,199,-0.05565220993381857,11.0
+Prostate Adenocarcinoma,Protein Secretion,95,-0.22590274347925596,43.0
+Prostate Adenocarcinoma,Interferon Alpha Response,97,-0.007066757009190842,6.0
+Prostate Adenocarcinoma,Interferon Gamma Response,197,-0.08066305728783765,13.0
+Prostate Adenocarcinoma,Apical Junction,197,-0.14912838369663442,27.0
+Prostate Adenocarcinoma,Apical Surface,44,-0.19862290346530528,38.0
+Prostate Adenocarcinoma,Hedgehog Signaling,36,-0.28463430631069175,48.0
+Prostate Adenocarcinoma,Complement,200,-0.14657721447720748,26.0
+Prostate Adenocarcinoma,Unfolded Protein Response,112,-0.1181584407157538,21.0
+Prostate Adenocarcinoma,PI3K/AKT/mTOR  Signaling,105,-0.15567351944501182,28.0
+Prostate Adenocarcinoma,mTORC1 Signaling,199,-0.1172272652520952,20.0
+Prostate Adenocarcinoma,E2F Targets,200,-0.12427442639379607,22.0
+Prostate Adenocarcinoma,Myc Targets V1,199,-0.09595174318535463,17.0
+Prostate Adenocarcinoma,Myc Targets V2,57,0.004818159057878871,5.0
+Prostate Adenocarcinoma,Epithelial Mesenchymal Transition,200,-0.1308474272888276,24.0
+Prostate Adenocarcinoma,Inflammatory Response,200,-0.19906034003728007,39.0
+Prostate Adenocarcinoma,Xenobiotic Metabolism,199,-0.007089465629476149,7.0
+Prostate Adenocarcinoma,Fatty Acid Metabolism,156,-0.08202808224788652,16.0
+Prostate Adenocarcinoma,Oxidative Phosphorylation,198,0.15466365033406573,1.0
+Prostate Adenocarcinoma,Glycolysis,198,-0.04664987302630151,10.0
+Prostate Adenocarcinoma,Reactive Oxygen Species Pathway,48,0.09621943294523766,2.0
+Prostate Adenocarcinoma,p53 Pathway,199,-0.10868884400375865,19.0
+Prostate Adenocarcinoma,UV Response Up,157,-0.03468228257634727,8.0
+Prostate Adenocarcinoma,UV Response Dn,143,-0.3854812500883261,50.0
+Prostate Adenocarcinoma,Angiogenesis,36,-0.1252765042780623,23.0
+Prostate Adenocarcinoma,heme Metabolism,199,-0.19697225129021445,37.0
+Prostate Adenocarcinoma,Coagulation,138,0.011065904889864867,4.0
+Prostate Adenocarcinoma,IL-2/STAT5 Signaling,197,-0.16086520057152479,30.0
+Prostate Adenocarcinoma,Bile Acid Metabolism,111,-0.13804485453407334,25.0
+Prostate Adenocarcinoma,Pperoxisome,103,-0.08199891971421291,15.0
+Prostate Adenocarcinoma,Allograft Rejection,200,-0.05648333059709575,12.0
+Prostate Adenocarcinoma,Spermatogenesis,133,-0.22915694218067045,44.0
+Prostate Adenocarcinoma,KRAS Signaling Up,198,-0.2600204556738377,47.0
+Prostate Adenocarcinoma,KRAS Signaling Dn,200,-0.16967105497515708,32.0
+Prostate Adenocarcinoma,Pancreas Beta Cells,40,-0.19665434403230495,36.0
+Pheochromocytoma & Paraganglioma,TNF-alpha Signaling via NF-kB,198,-0.02082759776014337,5.0
+Pheochromocytoma & Paraganglioma,Hypoxia,198,0.049325657243717486,1.0
+Pheochromocytoma & Paraganglioma,Cholesterol Homeostasis,74,-0.27724133468410633,36.0
+Pheochromocytoma & Paraganglioma,Mitotic Spindle,198,-0.30634343324310737,44.0
+Pheochromocytoma & Paraganglioma,Wnt-beta Catenin Signaling,42,-0.10184676564456754,11.0
+Pheochromocytoma & Paraganglioma,TGF-beta Signaling,54,-0.1493527632621687,18.0
+Pheochromocytoma & Paraganglioma,IL-6/JAK/STAT3 Signaling,83,-0.07801142190209574,7.0
+Pheochromocytoma & Paraganglioma,DNA Repair,149,-0.24673570863834246,33.0
+Pheochromocytoma & Paraganglioma,G2-M Checkpoint,199,-0.2997253240097921,42.0
+Pheochromocytoma & Paraganglioma,Apoptosis,160,-0.15519206108135838,21.0
+Pheochromocytoma & Paraganglioma,Notch Signaling,32,-0.08273731125441562,8.0
+Pheochromocytoma & Paraganglioma,Adipogenesis,200,-0.24422631982802143,32.0
+Pheochromocytoma & Paraganglioma,Estrogen Response Early,198,-0.22234732367253388,31.0
+Pheochromocytoma & Paraganglioma,Estrogen Response Late,197,-0.20069589246967734,28.0
+Pheochromocytoma & Paraganglioma,Androgen Response,99,-0.2803032853851823,37.0
+Pheochromocytoma & Paraganglioma,Myogenesis,199,-0.08477229982906069,9.0
+Pheochromocytoma & Paraganglioma,Protein Secretion,95,-0.3702739652257552,48.0
+Pheochromocytoma & Paraganglioma,Interferon Alpha Response,97,-0.15217674942149859,20.0
+Pheochromocytoma & Paraganglioma,Interferon Gamma Response,197,-0.1468068953730219,17.0
+Pheochromocytoma & Paraganglioma,Apical Junction,197,-0.12017691853487875,13.0
+Pheochromocytoma & Paraganglioma,Apical Surface,44,-0.16840205928797136,23.0
+Pheochromocytoma & Paraganglioma,Hedgehog Signaling,36,-0.20723097254253248,29.0
+Pheochromocytoma & Paraganglioma,Complement,200,-0.16302261186789266,22.0
+Pheochromocytoma & Paraganglioma,Unfolded Protein Response,112,-0.19920751380627214,27.0
+Pheochromocytoma & Paraganglioma,PI3K/AKT/mTOR  Signaling,105,-0.2939189314359921,41.0
+Pheochromocytoma & Paraganglioma,mTORC1 Signaling,199,-0.26592493977056936,35.0
+Pheochromocytoma & Paraganglioma,E2F Targets,200,-0.30629251087503856,43.0
+Pheochromocytoma & Paraganglioma,Myc Targets V1,199,-0.1984863323389372,26.0
+Pheochromocytoma & Paraganglioma,Myc Targets V2,57,-0.12167036123194006,14.0
+Pheochromocytoma & Paraganglioma,Epithelial Mesenchymal Transition,200,0.032221000264398135,2.0
+Pheochromocytoma & Paraganglioma,Inflammatory Response,200,-0.09082960016703027,10.0
+Pheochromocytoma & Paraganglioma,Xenobiotic Metabolism,199,-0.21448929232850256,30.0
+Pheochromocytoma & Paraganglioma,Fatty Acid Metabolism,156,-0.29029445652473823,40.0
+Pheochromocytoma & Paraganglioma,Oxidative Phosphorylation,198,-0.1716195958458323,24.0
+Pheochromocytoma & Paraganglioma,Glycolysis,198,-0.1311928402073361,16.0
+Pheochromocytoma & Paraganglioma,Reactive Oxygen Species Pathway,48,-0.11626484247768493,12.0
+Pheochromocytoma & Paraganglioma,p53 Pathway,199,-0.1505861870237792,19.0
+Pheochromocytoma & Paraganglioma,UV Response Up,157,-0.26485108547861985,34.0
+Pheochromocytoma & Paraganglioma,UV Response Dn,143,-0.33304286630948654,46.0
+Pheochromocytoma & Paraganglioma,Angiogenesis,36,-0.04879512126567881,6.0
+Pheochromocytoma & Paraganglioma,heme Metabolism,199,-0.28846850784104777,39.0
+Pheochromocytoma & Paraganglioma,Coagulation,138,-0.011262408076892756,3.0
+Pheochromocytoma & Paraganglioma,IL-2/STAT5 Signaling,197,-0.12866056987133023,15.0
+Pheochromocytoma & Paraganglioma,Bile Acid Metabolism,111,-0.4249970843960075,50.0
+Pheochromocytoma & Paraganglioma,Pperoxisome,103,-0.3139437109557633,45.0
+Pheochromocytoma & Paraganglioma,Allograft Rejection,200,-0.01726108923154892,4.0
+Pheochromocytoma & Paraganglioma,Spermatogenesis,133,-0.3813889392315052,49.0
+Pheochromocytoma & Paraganglioma,KRAS Signaling Up,198,-0.18472256287014088,25.0
+Pheochromocytoma & Paraganglioma,KRAS Signaling Dn,200,-0.3380502927723352,47.0
+Pheochromocytoma & Paraganglioma,Pancreas Beta Cells,40,-0.2837462901046571,38.0
+Pancreatic Adenocarcinoma,TNF-alpha Signaling via NF-kB,198,0.16889133746756968,4.0
+Pancreatic Adenocarcinoma,Hypoxia,198,0.1882786948495049,2.0
+Pancreatic Adenocarcinoma,Cholesterol Homeostasis,74,-0.003337262051305227,30.0
+Pancreatic Adenocarcinoma,Mitotic Spindle,198,0.0226250991841507,26.0
+Pancreatic Adenocarcinoma,Wnt-beta Catenin Signaling,42,0.13650027595075379,12.0
+Pancreatic Adenocarcinoma,TGF-beta Signaling,54,-0.0670508440784604,38.0
+Pancreatic Adenocarcinoma,IL-6/JAK/STAT3 Signaling,83,0.04981257905524937,23.0
+Pancreatic Adenocarcinoma,DNA Repair,149,0.1455885247357511,8.0
+Pancreatic Adenocarcinoma,G2-M Checkpoint,199,0.07843915912679932,19.0
+Pancreatic Adenocarcinoma,Apoptosis,160,0.040883471754877096,25.0
+Pancreatic Adenocarcinoma,Notch Signaling,32,0.052065046581375195,22.0
+Pancreatic Adenocarcinoma,Adipogenesis,200,-0.009065314979124937,32.0
+Pancreatic Adenocarcinoma,Estrogen Response Early,198,-0.080083890542678,39.0
+Pancreatic Adenocarcinoma,Estrogen Response Late,197,-0.02031703998730596,34.0
+Pancreatic Adenocarcinoma,Androgen Response,99,-0.18076986849720278,47.0
+Pancreatic Adenocarcinoma,Myogenesis,199,0.14033769859736436,10.0
+Pancreatic Adenocarcinoma,Protein Secretion,95,-0.2353687500097485,50.0
+Pancreatic Adenocarcinoma,Interferon Alpha Response,97,0.14328090306815944,9.0
+Pancreatic Adenocarcinoma,Interferon Gamma Response,197,0.1293373038433458,14.0
+Pancreatic Adenocarcinoma,Apical Junction,197,0.07302051972814451,20.0
+Pancreatic Adenocarcinoma,Apical Surface,44,0.11363910201578223,15.0
+Pancreatic Adenocarcinoma,Hedgehog Signaling,36,-0.11539696303017759,44.0
+Pancreatic Adenocarcinoma,Complement,200,-0.019026255167230995,33.0
+Pancreatic Adenocarcinoma,Unfolded Protein Response,112,-0.03197490528394027,36.0
+Pancreatic Adenocarcinoma,PI3K/AKT/mTOR  Signaling,105,-0.03508698392831456,37.0
+Pancreatic Adenocarcinoma,mTORC1 Signaling,199,0.011220731835536053,28.0
+Pancreatic Adenocarcinoma,E2F Targets,200,0.1367359533796783,11.0
+Pancreatic Adenocarcinoma,Myc Targets V1,199,0.05314885304365555,21.0
+Pancreatic Adenocarcinoma,Myc Targets V2,57,0.13093747434836178,13.0
+Pancreatic Adenocarcinoma,Epithelial Mesenchymal Transition,200,0.17231951807762794,3.0
+Pancreatic Adenocarcinoma,Inflammatory Response,200,0.04357003282306149,24.0
+Pancreatic Adenocarcinoma,Xenobiotic Metabolism,199,-0.02032531816923373,35.0
+Pancreatic Adenocarcinoma,Fatty Acid Metabolism,156,-0.0877888046510493,40.0
+Pancreatic Adenocarcinoma,Oxidative Phosphorylation,198,0.09879249527676028,17.0
+Pancreatic Adenocarcinoma,Glycolysis,198,0.14613607645287474,7.0
+Pancreatic Adenocarcinoma,Reactive Oxygen Species Pathway,48,0.15092703546722872,6.0
+Pancreatic Adenocarcinoma,p53 Pathway,199,0.1510824776299216,5.0
+Pancreatic Adenocarcinoma,UV Response Up,157,0.07980773975433653,18.0
+Pancreatic Adenocarcinoma,UV Response Dn,143,-0.21382470293818667,49.0
+Pancreatic Adenocarcinoma,Angiogenesis,36,0.0200926989134797,27.0
+Pancreatic Adenocarcinoma,heme Metabolism,199,-0.12507941912560802,45.0
+Pancreatic Adenocarcinoma,Coagulation,138,0.10396103482126201,16.0
+Pancreatic Adenocarcinoma,IL-2/STAT5 Signaling,197,0.006922347188067615,29.0
+Pancreatic Adenocarcinoma,Bile Acid Metabolism,111,-0.18982465187277556,48.0
+Pancreatic Adenocarcinoma,Pperoxisome,103,-0.1008264413661237,41.0
+Pancreatic Adenocarcinoma,Allograft Rejection,200,0.2017439787131263,1.0
+Pancreatic Adenocarcinoma,Spermatogenesis,133,-0.10896438231478996,42.0
+Pancreatic Adenocarcinoma,KRAS Signaling Up,198,-0.11494422423195227,43.0
+Pancreatic Adenocarcinoma,KRAS Signaling Dn,200,-0.005898598672145853,31.0
+Pancreatic Adenocarcinoma,Pancreas Beta Cells,40,-0.17383183197375765,46.0
+Ovarian Serous Cystadenocarcinoma,TNF-alpha Signaling via NF-kB,198,-0.17322795653950182,22.0
+Ovarian Serous Cystadenocarcinoma,Hypoxia,198,-0.1756261966734136,23.0
+Ovarian Serous Cystadenocarcinoma,Cholesterol Homeostasis,74,-0.07488580827255102,4.0
+Ovarian Serous Cystadenocarcinoma,Mitotic Spindle,198,-0.2672191482648724,42.0
+Ovarian Serous Cystadenocarcinoma,Wnt-beta Catenin Signaling,42,-0.32401665021995,49.0
+Ovarian Serous Cystadenocarcinoma,TGF-beta Signaling,54,-0.2979203412422791,45.0
+Ovarian Serous Cystadenocarcinoma,IL-6/JAK/STAT3 Signaling,83,-0.1778351960234614,24.0
+Ovarian Serous Cystadenocarcinoma,DNA Repair,149,-0.10990244661458799,8.0
+Ovarian Serous Cystadenocarcinoma,G2-M Checkpoint,199,-0.13253538092599132,12.0
+Ovarian Serous Cystadenocarcinoma,Apoptosis,160,-0.1964106311532797,30.0
+Ovarian Serous Cystadenocarcinoma,Notch Signaling,32,-0.2994329966129563,46.0
+Ovarian Serous Cystadenocarcinoma,Adipogenesis,200,-0.12471385176282429,10.0
+Ovarian Serous Cystadenocarcinoma,Estrogen Response Early,198,-0.26174265284251896,40.0
+Ovarian Serous Cystadenocarcinoma,Estrogen Response Late,197,-0.16430960048756335,17.0
+Ovarian Serous Cystadenocarcinoma,Androgen Response,99,-0.2107675362621984,34.0
+Ovarian Serous Cystadenocarcinoma,Myogenesis,199,-0.2710971661535621,43.0
+Ovarian Serous Cystadenocarcinoma,Protein Secretion,95,-0.20772440624544217,32.0
+Ovarian Serous Cystadenocarcinoma,Interferon Alpha Response,97,-0.11457965410945513,9.0
+Ovarian Serous Cystadenocarcinoma,Interferon Gamma Response,197,-0.15310333330103942,15.0
+Ovarian Serous Cystadenocarcinoma,Apical Junction,197,-0.2874164236338001,44.0
+Ovarian Serous Cystadenocarcinoma,Apical Surface,44,-0.30039187954030105,47.0
+Ovarian Serous Cystadenocarcinoma,Hedgehog Signaling,36,-0.34352794776992507,50.0
+Ovarian Serous Cystadenocarcinoma,Complement,200,-0.1962535587934094,29.0
+Ovarian Serous Cystadenocarcinoma,Unfolded Protein Response,112,-0.19333560608044095,28.0
+Ovarian Serous Cystadenocarcinoma,PI3K/AKT/mTOR  Signaling,105,-0.20979671437374123,33.0
+Ovarian Serous Cystadenocarcinoma,mTORC1 Signaling,199,-0.08893877572884876,7.0
+Ovarian Serous Cystadenocarcinoma,E2F Targets,200,-0.06898502372908874,3.0
+Ovarian Serous Cystadenocarcinoma,Myc Targets V1,199,-0.07967784814132871,5.0
+Ovarian Serous Cystadenocarcinoma,Myc Targets V2,57,-0.16459039384872154,18.0
+Ovarian Serous Cystadenocarcinoma,Epithelial Mesenchymal Transition,200,-0.17295108207480892,21.0
+Ovarian Serous Cystadenocarcinoma,Inflammatory Response,200,-0.20065026732247454,31.0
+Ovarian Serous Cystadenocarcinoma,Xenobiotic Metabolism,199,-0.1792633980844595,26.0
+Ovarian Serous Cystadenocarcinoma,Fatty Acid Metabolism,156,-0.086277364457576,6.0
+Ovarian Serous Cystadenocarcinoma,Oxidative Phosphorylation,198,0.18773411032928505,1.0
+Ovarian Serous Cystadenocarcinoma,Glycolysis,198,-0.13204473547149184,11.0
+Ovarian Serous Cystadenocarcinoma,Reactive Oxygen Species Pathway,48,-0.00853005383656106,2.0
+Ovarian Serous Cystadenocarcinoma,p53 Pathway,199,-0.22404944058597673,36.0
+Ovarian Serous Cystadenocarcinoma,UV Response Up,157,-0.15276517199278272,14.0
+Ovarian Serous Cystadenocarcinoma,UV Response Dn,143,-0.32264807207141544,48.0
+Ovarian Serous Cystadenocarcinoma,Angiogenesis,36,-0.17906623841630295,25.0
+Ovarian Serous Cystadenocarcinoma,heme Metabolism,199,-0.2389902342636602,38.0
+Ovarian Serous Cystadenocarcinoma,Coagulation,138,-0.1364927680972915,13.0
+Ovarian Serous Cystadenocarcinoma,IL-2/STAT5 Signaling,197,-0.23107768955755836,37.0
+Ovarian Serous Cystadenocarcinoma,Bile Acid Metabolism,111,-0.21321138157456304,35.0
+Ovarian Serous Cystadenocarcinoma,Pperoxisome,103,-0.16733963692676257,19.0
+Ovarian Serous Cystadenocarcinoma,Allograft Rejection,200,-0.1882743248010596,27.0
+Ovarian Serous Cystadenocarcinoma,Spermatogenesis,133,-0.16298362190819637,16.0
+Ovarian Serous Cystadenocarcinoma,KRAS Signaling Up,198,-0.2552617431567347,39.0
+Ovarian Serous Cystadenocarcinoma,KRAS Signaling Dn,200,-0.2632503072641055,41.0
+Ovarian Serous Cystadenocarcinoma,Pancreas Beta Cells,40,-0.17041454380290416,20.0
+Mesothelioma,TNF-alpha Signaling via NF-kB,198,-0.08685105601710916,18.0
+Mesothelioma,Hypoxia,198,-0.03776357839567152,9.0
+Mesothelioma,Cholesterol Homeostasis,74,-0.09562310698960147,22.0
+Mesothelioma,Mitotic Spindle,198,-0.20004564614434958,41.0
+Mesothelioma,Wnt-beta Catenin Signaling,42,-0.18467035727456754,39.0
+Mesothelioma,TGF-beta Signaling,54,-0.282134913269514,49.0
+Mesothelioma,IL-6/JAK/STAT3 Signaling,83,-0.09381203533826234,20.0
+Mesothelioma,DNA Repair,149,0.03993422921539399,4.0
+Mesothelioma,G2-M Checkpoint,199,-0.16058783133108243,37.0
+Mesothelioma,Apoptosis,160,-0.09412867196378162,21.0
+Mesothelioma,Notch Signaling,32,-0.15554688948616274,34.0
+Mesothelioma,Adipogenesis,200,-0.08376593714848872,16.0
+Mesothelioma,Estrogen Response Early,198,-0.14403476761374834,32.0
+Mesothelioma,Estrogen Response Late,197,-0.05902201777882209,11.0
+Mesothelioma,Androgen Response,99,-0.25263983639270476,48.0
+Mesothelioma,Myogenesis,199,-0.12270511367008727,27.0
+Mesothelioma,Protein Secretion,95,-0.24571592599468817,46.0
+Mesothelioma,Interferon Alpha Response,97,0.13698220698747388,1.0
+Mesothelioma,Interferon Gamma Response,197,0.037031053823538794,5.0
+Mesothelioma,Apical Junction,197,-0.15756071834465615,36.0
+Mesothelioma,Apical Surface,44,-0.21546845052401387,42.0
+Mesothelioma,Hedgehog Signaling,36,-0.23064363273651878,45.0
+Mesothelioma,Complement,200,-0.14202913023092537,31.0
+Mesothelioma,Unfolded Protein Response,112,-0.11806042804662055,24.0
+Mesothelioma,PI3K/AKT/mTOR  Signaling,105,-0.19221588775944487,40.0
+Mesothelioma,mTORC1 Signaling,199,-0.12011627207513263,26.0
+Mesothelioma,E2F Targets,200,-0.11926955754413236,25.0
+Mesothelioma,Myc Targets V1,199,-0.11547841629445624,23.0
+Mesothelioma,Myc Targets V2,57,-0.05101967919016028,10.0
+Mesothelioma,Epithelial Mesenchymal Transition,200,-0.03240800896288104,8.0
+Mesothelioma,Inflammatory Response,200,-0.13353484508473934,29.0
+Mesothelioma,Xenobiotic Metabolism,199,-0.059861288050338225,12.0
+Mesothelioma,Fatty Acid Metabolism,156,-0.07082238061035821,15.0
+Mesothelioma,Oxidative Phosphorylation,198,0.13010470619128942,2.0
+Mesothelioma,Glycolysis,198,0.010022037899264168,6.0
+Mesothelioma,Reactive Oxygen Species Pathway,48,0.04134863925353749,3.0
+Mesothelioma,p53 Pathway,199,-0.06609664550681052,14.0
+Mesothelioma,UV Response Up,157,-0.023751815184737988,7.0
+Mesothelioma,UV Response Dn,143,-0.36328879628781435,50.0
+Mesothelioma,Angiogenesis,36,-0.13656021178070418,30.0
+Mesothelioma,heme Metabolism,199,-0.2183469446674155,43.0
+Mesothelioma,Coagulation,137,-0.06304526371613103,13.0
+Mesothelioma,IL-2/STAT5 Signaling,197,-0.17165124234789209,38.0
+Mesothelioma,Bile Acid Metabolism,111,-0.15562259957820873,35.0
+Mesothelioma,Pperoxisome,103,-0.12687112729057967,28.0
+Mesothelioma,Allograft Rejection,200,-0.08924432928063514,19.0
+Mesothelioma,Spermatogenesis,133,-0.1549163648142207,33.0
+Mesothelioma,KRAS Signaling Up,198,-0.2278576889658396,44.0
+Mesothelioma,KRAS Signaling Dn,200,-0.0853554973947546,17.0
+Mesothelioma,Pancreas Beta Cells,40,-0.24903005712313317,47.0
+Lung Squamous Cell Carcinoma,TNF-alpha Signaling via NF-kB,198,0.010057904857829649,45.0
+Lung Squamous Cell Carcinoma,Hypoxia,198,0.1871200129646358,9.0
+Lung Squamous Cell Carcinoma,Cholesterol Homeostasis,74,0.23319132470799983,5.0
+Lung Squamous Cell Carcinoma,Mitotic Spindle,198,0.0374473567943278,36.0
+Lung Squamous Cell Carcinoma,Wnt-beta Catenin Signaling,42,0.12045830336152799,20.0
+Lung Squamous Cell Carcinoma,TGF-beta Signaling,54,0.02002191752907617,42.0
+Lung Squamous Cell Carcinoma,IL-6/JAK/STAT3 Signaling,83,0.020058171431993302,41.0
+Lung Squamous Cell Carcinoma,DNA Repair,149,0.19436813182401408,6.0
+Lung Squamous Cell Carcinoma,G2-M Checkpoint,199,0.07368907934889209,29.0
+Lung Squamous Cell Carcinoma,Apoptosis,160,0.12481564026549007,19.0
+Lung Squamous Cell Carcinoma,Notch Signaling,32,0.09125773987042175,24.0
+Lung Squamous Cell Carcinoma,Adipogenesis,200,0.1690268889684583,10.0
+Lung Squamous Cell Carcinoma,Estrogen Response Early,198,0.029464278442200998,39.0
+Lung Squamous Cell Carcinoma,Estrogen Response Late,197,0.0901056452173822,25.0
+Lung Squamous Cell Carcinoma,Androgen Response,99,0.04493284352220374,35.0
+Lung Squamous Cell Carcinoma,Myogenesis,199,0.09513021578189067,23.0
+Lung Squamous Cell Carcinoma,Protein Secretion,95,0.08250114576378201,27.0
+Lung Squamous Cell Carcinoma,Interferon Alpha Response,97,-0.01326584310349353,48.0
+Lung Squamous Cell Carcinoma,Interferon Gamma Response,197,-0.025453649196577437,49.0
+Lung Squamous Cell Carcinoma,Apical Junction,197,0.07580007262012937,28.0
+Lung Squamous Cell Carcinoma,Apical Surface,44,0.06024511314177031,31.0
+Lung Squamous Cell Carcinoma,Hedgehog Signaling,36,0.08379990538300158,26.0
+Lung Squamous Cell Carcinoma,Complement,200,0.03564684997618858,37.0
+Lung Squamous Cell Carcinoma,Unfolded Protein Response,112,0.16764001905138048,11.0
+Lung Squamous Cell Carcinoma,PI3K/AKT/mTOR  Signaling,105,0.13746827596937075,16.0
+Lung Squamous Cell Carcinoma,mTORC1 Signaling,199,0.23447594177999048,4.0
+Lung Squamous Cell Carcinoma,E2F Targets,200,0.11202911968714281,22.0
+Lung Squamous Cell Carcinoma,Myc Targets V1,199,0.15532069698434592,14.0
+Lung Squamous Cell Carcinoma,Myc Targets V2,57,0.15651473774945796,13.0
+Lung Squamous Cell Carcinoma,Epithelial Mesenchymal Transition,200,0.1484563151670246,15.0
+Lung Squamous Cell Carcinoma,Inflammatory Response,200,0.021178577462358364,40.0
+Lung Squamous Cell Carcinoma,Xenobiotic Metabolism,199,0.19268061677006043,8.0
+Lung Squamous Cell Carcinoma,Fatty Acid Metabolism,156,0.15991509135432388,12.0
+Lung Squamous Cell Carcinoma,Oxidative Phosphorylation,198,0.2578942925673905,2.0
+Lung Squamous Cell Carcinoma,Glycolysis,198,0.23951482286793443,3.0
+Lung Squamous Cell Carcinoma,Reactive Oxygen Species Pathway,48,0.32155331969545065,1.0
+Lung Squamous Cell Carcinoma,p53 Pathway,199,0.1351870195386066,17.0
+Lung Squamous Cell Carcinoma,UV Response Up,157,0.1927028972295408,7.0
+Lung Squamous Cell Carcinoma,UV Response Dn,143,-0.027496847784997547,50.0
+Lung Squamous Cell Carcinoma,Angiogenesis,36,-0.007890434932695504,47.0
+Lung Squamous Cell Carcinoma,heme Metabolism,199,0.0727716284955075,30.0
+Lung Squamous Cell Carcinoma,Coagulation,138,0.032007694502302945,38.0
+Lung Squamous Cell Carcinoma,IL-2/STAT5 Signaling,197,0.1126037182552545,21.0
+Lung Squamous Cell Carcinoma,Bile Acid Metabolism,111,0.048566055076407405,34.0
+Lung Squamous Cell Carcinoma,Pperoxisome,103,0.13516529301530275,18.0
+Lung Squamous Cell Carcinoma,Allograft Rejection,200,0.01935290620962323,43.0
+Lung Squamous Cell Carcinoma,Spermatogenesis,133,0.058464304531824926,32.0
+Lung Squamous Cell Carcinoma,KRAS Signaling Up,198,0.008624735513026277,46.0
+Lung Squamous Cell Carcinoma,KRAS Signaling Dn,200,0.01048620196276594,44.0
+Lung Squamous Cell Carcinoma,Pancreas Beta Cells,40,0.05754200191867035,33.0
+Lung Adenocarcinoma,TNF-alpha Signaling via NF-kB,198,-0.031389441035478284,23.0
+Lung Adenocarcinoma,Hypoxia,198,0.08033930538871417,12.0
+Lung Adenocarcinoma,Cholesterol Homeostasis,74,0.012533706370587925,16.0
+Lung Adenocarcinoma,Mitotic Spindle,198,-0.011948970002112815,20.0
+Lung Adenocarcinoma,Wnt-beta Catenin Signaling,42,-0.12210343157252809,38.0
+Lung Adenocarcinoma,TGF-beta Signaling,54,-0.21223517494807972,48.0
+Lung Adenocarcinoma,IL-6/JAK/STAT3 Signaling,83,-0.05392315225525388,24.0
+Lung Adenocarcinoma,DNA Repair,149,0.1658425547681722,8.0
+Lung Adenocarcinoma,G2-M Checkpoint,199,0.17778339739099802,7.0
+Lung Adenocarcinoma,Apoptosis,160,-0.02944926722368134,22.0
+Lung Adenocarcinoma,Notch Signaling,32,-0.15757565275066163,41.0
+Lung Adenocarcinoma,Adipogenesis,200,-0.024102197698405225,21.0
+Lung Adenocarcinoma,Estrogen Response Early,198,-0.1699238127552509,43.0
+Lung Adenocarcinoma,Estrogen Response Late,197,-0.05694225866835564,25.0
+Lung Adenocarcinoma,Androgen Response,99,-0.16225468436901352,42.0
+Lung Adenocarcinoma,Myogenesis,199,-0.11362465629748077,36.0
+Lung Adenocarcinoma,Protein Secretion,95,-0.13993795160188052,39.0
+Lung Adenocarcinoma,Interferon Alpha Response,97,0.0643071610523951,14.0
+Lung Adenocarcinoma,Interferon Gamma Response,197,0.04558367352815359,15.0
+Lung Adenocarcinoma,Apical Junction,197,-0.08292734259751457,30.0
+Lung Adenocarcinoma,Apical Surface,44,-0.11194360546268368,35.0
+Lung Adenocarcinoma,Hedgehog Signaling,36,-0.2554699653511423,49.0
+Lung Adenocarcinoma,Complement,200,-0.06609868467841827,26.0
+Lung Adenocarcinoma,Unfolded Protein Response,112,0.10607864362831267,11.0
+Lung Adenocarcinoma,PI3K/AKT/mTOR  Signaling,105,0.006647347866874804,18.0
+Lung Adenocarcinoma,mTORC1 Signaling,199,0.18051237146284888,6.0
+Lung Adenocarcinoma,E2F Targets,200,0.244877918893294,2.0
+Lung Adenocarcinoma,Myc Targets V1,199,0.220964761503546,4.0
+Lung Adenocarcinoma,Myc Targets V2,57,0.29219238016976795,1.0
+Lung Adenocarcinoma,Epithelial Mesenchymal Transition,200,0.009335545624708726,17.0
+Lung Adenocarcinoma,Inflammatory Response,200,-0.0773006527458239,28.0
+Lung Adenocarcinoma,Xenobiotic Metabolism,199,-0.06800718483919187,27.0
+Lung Adenocarcinoma,Fatty Acid Metabolism,156,-0.08485101929288309,31.0
+Lung Adenocarcinoma,Oxidative Phosphorylation,198,0.23148313030680692,3.0
+Lung Adenocarcinoma,Glycolysis,198,0.20498665774066632,5.0
+Lung Adenocarcinoma,Reactive Oxygen Species Pathway,48,0.14654611249323746,9.0
+Lung Adenocarcinoma,p53 Pathway,199,-0.0825705168470535,29.0
+Lung Adenocarcinoma,UV Response Up,157,0.06903848054085224,13.0
+Lung Adenocarcinoma,UV Response Dn,143,-0.34222346445115603,50.0
+Lung Adenocarcinoma,Angiogenesis,36,-0.09457347162718581,34.0
+Lung Adenocarcinoma,heme Metabolism,199,-0.18586796938855768,45.0
+Lung Adenocarcinoma,Coagulation,138,-0.11541848532031851,37.0
+Lung Adenocarcinoma,IL-2/STAT5 Signaling,197,-0.09302688109449038,33.0
+Lung Adenocarcinoma,Bile Acid Metabolism,111,-0.21218480251580285,47.0
+Lung Adenocarcinoma,Pperoxisome,103,-0.08743170498353675,32.0
+Lung Adenocarcinoma,Allograft Rejection,200,0.13114875004164886,10.0
+Lung Adenocarcinoma,Spermatogenesis,133,0.0022824847027096305,19.0
+Lung Adenocarcinoma,KRAS Signaling Up,198,-0.20142170301879284,46.0
+Lung Adenocarcinoma,KRAS Signaling Dn,200,-0.18132768589617074,44.0
+Lung Adenocarcinoma,Pancreas Beta Cells,40,-0.1460637055874811,40.0
+Liver Hepatocellular Carcinoma,TNF-alpha Signaling via NF-kB,198,0.0357323907278541,31.0
+Liver Hepatocellular Carcinoma,Hypoxia,198,0.09678808667779276,23.0
+Liver Hepatocellular Carcinoma,Cholesterol Homeostasis,74,0.0004137173014748292,35.0
+Liver Hepatocellular Carcinoma,Mitotic Spindle,198,0.1131881494164788,20.0
+Liver Hepatocellular Carcinoma,Wnt-beta Catenin Signaling,42,0.11476808310198358,19.0
+Liver Hepatocellular Carcinoma,TGF-beta Signaling,54,-0.012107286489878894,37.0
+Liver Hepatocellular Carcinoma,IL-6/JAK/STAT3 Signaling,83,0.07133066801278268,29.0
+Liver Hepatocellular Carcinoma,DNA Repair,149,0.24581869701766157,5.0
+Liver Hepatocellular Carcinoma,G2-M Checkpoint,199,0.16390406708644073,13.0
+Liver Hepatocellular Carcinoma,Apoptosis,160,0.07779379628362379,27.0
+Liver Hepatocellular Carcinoma,Notch Signaling,32,0.09978133138289762,21.0
+Liver Hepatocellular Carcinoma,Adipogenesis,200,-0.12079713687631657,44.0
+Liver Hepatocellular Carcinoma,Estrogen Response Early,198,0.033184244629522706,33.0
+Liver Hepatocellular Carcinoma,Estrogen Response Late,197,0.12373601270697443,16.0
+Liver Hepatocellular Carcinoma,Androgen Response,99,-0.0954014987995853,43.0
+Liver Hepatocellular Carcinoma,Myogenesis,199,0.17087328762848425,11.0
+Liver Hepatocellular Carcinoma,Protein Secretion,95,0.03533220309267248,32.0
+Liver Hepatocellular Carcinoma,Interferon Alpha Response,97,-0.027140175127538222,38.0
+Liver Hepatocellular Carcinoma,Interferon Gamma Response,197,-0.05198786308364234,41.0
+Liver Hepatocellular Carcinoma,Apical Junction,197,0.14833341034882766,14.0
+Liver Hepatocellular Carcinoma,Apical Surface,44,0.08418786479309819,26.0
+Liver Hepatocellular Carcinoma,Hedgehog Signaling,36,0.07384819290984536,28.0
+Liver Hepatocellular Carcinoma,Complement,200,-0.04368664468863887,39.0
+Liver Hepatocellular Carcinoma,Unfolded Protein Response,112,0.22884978874905612,6.0
+Liver Hepatocellular Carcinoma,PI3K/AKT/mTOR  Signaling,105,0.09958101239818634,22.0
+Liver Hepatocellular Carcinoma,mTORC1 Signaling,199,0.16619438782942278,12.0
+Liver Hepatocellular Carcinoma,E2F Targets,200,0.1883122343580785,8.0
+Liver Hepatocellular Carcinoma,Myc Targets V1,199,0.2717936648356754,2.0
+Liver Hepatocellular Carcinoma,Myc Targets V2,57,0.3695887606212846,1.0
+Liver Hepatocellular Carcinoma,Epithelial Mesenchymal Transition,200,0.08980494471534067,24.0
+Liver Hepatocellular Carcinoma,Inflammatory Response,200,0.042890451165543055,30.0
+Liver Hepatocellular Carcinoma,Xenobiotic Metabolism,199,-0.3134840187649876,49.0
+Liver Hepatocellular Carcinoma,Fatty Acid Metabolism,156,-0.25988814462747845,47.0
+Liver Hepatocellular Carcinoma,Oxidative Phosphorylation,198,0.12260044468517343,17.0
+Liver Hepatocellular Carcinoma,Glycolysis,198,0.18693856239175705,9.0
+Liver Hepatocellular Carcinoma,Reactive Oxygen Species Pathway,48,0.24622085635248858,4.0
+Liver Hepatocellular Carcinoma,p53 Pathway,199,0.18314207072704966,10.0
+Liver Hepatocellular Carcinoma,UV Response Up,157,0.19901837838684747,7.0
+Liver Hepatocellular Carcinoma,UV Response Dn,143,-0.1797393098982002,46.0
+Liver Hepatocellular Carcinoma,Angiogenesis,36,-0.00444383235242965,36.0
+Liver Hepatocellular Carcinoma,heme Metabolism,199,-0.05660892096548615,42.0
+Liver Hepatocellular Carcinoma,Coagulation,138,-0.29816626051845124,48.0
+Liver Hepatocellular Carcinoma,IL-2/STAT5 Signaling,197,0.1174659197729163,18.0
+Liver Hepatocellular Carcinoma,Bile Acid Metabolism,111,-0.36848777760039314,50.0
+Liver Hepatocellular Carcinoma,Pperoxisome,103,-0.12544101868995175,45.0
+Liver Hepatocellular Carcinoma,Allograft Rejection,200,0.250213408485955,3.0
+Liver Hepatocellular Carcinoma,Spermatogenesis,133,0.13116896213080548,15.0
+Liver Hepatocellular Carcinoma,KRAS Signaling Up,198,-0.049010983675158576,40.0
+Liver Hepatocellular Carcinoma,KRAS Signaling Dn,200,0.08451493178591771,25.0
+Liver Hepatocellular Carcinoma,Pancreas Beta Cells,40,0.0039217075648191055,34.0
+Kidney Papillary Cell Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.15616049052748004,16.0
+Kidney Papillary Cell Carcinoma,Hypoxia,198,-0.09669551242948472,8.0
+Kidney Papillary Cell Carcinoma,Cholesterol Homeostasis,74,-0.23068576624683643,34.0
+Kidney Papillary Cell Carcinoma,Mitotic Spindle,198,-0.22179512625109518,31.0
+Kidney Papillary Cell Carcinoma,Wnt-beta Catenin Signaling,42,-0.1637168641072396,22.0
+Kidney Papillary Cell Carcinoma,TGF-beta Signaling,54,-0.2532677254264735,40.0
+Kidney Papillary Cell Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.13166553828166555,12.0
+Kidney Papillary Cell Carcinoma,DNA Repair,149,-0.06298537098407765,4.0
+Kidney Papillary Cell Carcinoma,G2-M Checkpoint,199,-0.15837014681901218,18.0
+Kidney Papillary Cell Carcinoma,Apoptosis,160,-0.17476095391476043,25.0
+Kidney Papillary Cell Carcinoma,Notch Signaling,32,-0.20922340502892822,28.0
+Kidney Papillary Cell Carcinoma,Adipogenesis,200,-0.252314747824858,39.0
+Kidney Papillary Cell Carcinoma,Estrogen Response Early,198,-0.25563555692936013,41.0
+Kidney Papillary Cell Carcinoma,Estrogen Response Late,197,-0.1918844188664857,26.0
+Kidney Papillary Cell Carcinoma,Androgen Response,99,-0.3916276220219605,50.0
+Kidney Papillary Cell Carcinoma,Myogenesis,199,-0.11765848878634624,10.0
+Kidney Papillary Cell Carcinoma,Protein Secretion,95,-0.3345122280590849,48.0
+Kidney Papillary Cell Carcinoma,Interferon Alpha Response,97,-0.07684335786445495,5.0
+Kidney Papillary Cell Carcinoma,Interferon Gamma Response,197,-0.15038137833742443,15.0
+Kidney Papillary Cell Carcinoma,Apical Junction,197,-0.1610846806975599,19.0
+Kidney Papillary Cell Carcinoma,Apical Surface,44,-0.17433130534049268,24.0
+Kidney Papillary Cell Carcinoma,Hedgehog Signaling,36,-0.2924896848682312,44.0
+Kidney Papillary Cell Carcinoma,Complement,200,-0.24496016675846813,35.0
+Kidney Papillary Cell Carcinoma,Unfolded Protein Response,112,-0.16175779354822142,20.0
+Kidney Papillary Cell Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.25144712182782647,38.0
+Kidney Papillary Cell Carcinoma,mTORC1 Signaling,199,-0.2282210480304232,33.0
+Kidney Papillary Cell Carcinoma,E2F Targets,200,-0.12444640606615663,11.0
+Kidney Papillary Cell Carcinoma,Myc Targets V1,199,-0.11216040789218411,9.0
+Kidney Papillary Cell Carcinoma,Myc Targets V2,57,-0.020891889580175012,2.0
+Kidney Papillary Cell Carcinoma,Epithelial Mesenchymal Transition,200,-0.15823344722777122,17.0
+Kidney Papillary Cell Carcinoma,Inflammatory Response,200,-0.2475798954910892,37.0
+Kidney Papillary Cell Carcinoma,Xenobiotic Metabolism,199,-0.24536248787078563,36.0
+Kidney Papillary Cell Carcinoma,Fatty Acid Metabolism,156,-0.3012293469606398,45.0
+Kidney Papillary Cell Carcinoma,Oxidative Phosphorylation,198,-0.13728132642169272,13.0
+Kidney Papillary Cell Carcinoma,Glycolysis,198,-0.0893614469149023,7.0
+Kidney Papillary Cell Carcinoma,Reactive Oxygen Species Pathway,48,-0.016227600392480557,1.0
+Kidney Papillary Cell Carcinoma,p53 Pathway,199,-0.08021411588006788,6.0
+Kidney Papillary Cell Carcinoma,UV Response Up,157,-0.16388658453189864,23.0
+Kidney Papillary Cell Carcinoma,UV Response Dn,143,-0.33371629043995876,47.0
+Kidney Papillary Cell Carcinoma,Angiogenesis,36,-0.2221608361447309,32.0
+Kidney Papillary Cell Carcinoma,heme Metabolism,199,-0.3219450307114956,46.0
+Kidney Papillary Cell Carcinoma,Coagulation,138,-0.14711672971852122,14.0
+Kidney Papillary Cell Carcinoma,IL-2/STAT5 Signaling,197,-0.1949501865054577,27.0
+Kidney Papillary Cell Carcinoma,Bile Acid Metabolism,111,-0.3576034350108453,49.0
+Kidney Papillary Cell Carcinoma,Pperoxisome,103,-0.2586980388250654,42.0
+Kidney Papillary Cell Carcinoma,Allograft Rejection,200,-0.03042973532458766,3.0
+Kidney Papillary Cell Carcinoma,Spermatogenesis,133,-0.21220676581414696,29.0
+Kidney Papillary Cell Carcinoma,KRAS Signaling Up,198,-0.27542570761433444,43.0
+Kidney Papillary Cell Carcinoma,KRAS Signaling Dn,200,-0.16200162922296954,21.0
+Kidney Papillary Cell Carcinoma,Pancreas Beta Cells,40,-0.21808734894036583,30.0
+Kidney Clear Cell Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.12284724537277353,25.0
+Kidney Clear Cell Carcinoma,Hypoxia,198,-0.031083064707021043,10.0
+Kidney Clear Cell Carcinoma,Cholesterol Homeostasis,74,-0.15344224245590593,32.0
+Kidney Clear Cell Carcinoma,Mitotic Spindle,198,-0.2396214560242157,44.0
+Kidney Clear Cell Carcinoma,Wnt-beta Catenin Signaling,42,-0.1307439070841892,28.0
+Kidney Clear Cell Carcinoma,TGF-beta Signaling,54,-0.24104813052392593,45.0
+Kidney Clear Cell Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.0898902429266955,19.0
+Kidney Clear Cell Carcinoma,DNA Repair,149,-0.003578134306337526,6.0
+Kidney Clear Cell Carcinoma,G2-M Checkpoint,199,-0.2292909196468494,42.0
+Kidney Clear Cell Carcinoma,Apoptosis,160,-0.15006512547034465,31.0
+Kidney Clear Cell Carcinoma,Notch Signaling,32,-0.12771154651356967,27.0
+Kidney Clear Cell Carcinoma,Adipogenesis,200,-0.07630298119210628,15.0
+Kidney Clear Cell Carcinoma,Estrogen Response Early,198,-0.141208242996231,30.0
+Kidney Clear Cell Carcinoma,Estrogen Response Late,197,-0.07908909909638945,16.0
+Kidney Clear Cell Carcinoma,Androgen Response,99,-0.34146414369374534,50.0
+Kidney Clear Cell Carcinoma,Myogenesis,199,-0.015034494487043432,8.0
+Kidney Clear Cell Carcinoma,Protein Secretion,95,-0.3078344696190724,48.0
+Kidney Clear Cell Carcinoma,Interferon Alpha Response,97,-0.024591644880733846,9.0
+Kidney Clear Cell Carcinoma,Interferon Gamma Response,197,-0.09258565854607564,20.0
+Kidney Clear Cell Carcinoma,Apical Junction,197,-0.1244579865661601,26.0
+Kidney Clear Cell Carcinoma,Apical Surface,44,-0.1117438803225763,23.0
+Kidney Clear Cell Carcinoma,Hedgehog Signaling,36,-0.2387674314519506,43.0
+Kidney Clear Cell Carcinoma,Complement,200,-0.1713157484768455,36.0
+Kidney Clear Cell Carcinoma,Unfolded Protein Response,112,-0.14019196308774418,29.0
+Kidney Clear Cell Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.18444195357746263,37.0
+Kidney Clear Cell Carcinoma,mTORC1 Signaling,199,-0.18521623867197598,38.0
+Kidney Clear Cell Carcinoma,E2F Targets,200,-0.15802253573036168,33.0
+Kidney Clear Cell Carcinoma,Myc Targets V1,199,-0.10821457121005089,22.0
+Kidney Clear Cell Carcinoma,Myc Targets V2,57,-0.0038820856018024832,7.0
+Kidney Clear Cell Carcinoma,Epithelial Mesenchymal Transition,200,-0.03194052751337125,11.0
+Kidney Clear Cell Carcinoma,Inflammatory Response,200,-0.21778754964060584,40.0
+Kidney Clear Cell Carcinoma,Xenobiotic Metabolism,199,-0.06041531677157928,12.0
+Kidney Clear Cell Carcinoma,Fatty Acid Metabolism,156,-0.12189657265939592,24.0
+Kidney Clear Cell Carcinoma,Oxidative Phosphorylation,198,0.027452936812644217,3.0
+Kidney Clear Cell Carcinoma,Glycolysis,198,0.033631900320675444,2.0
+Kidney Clear Cell Carcinoma,Reactive Oxygen Species Pathway,48,0.05885728368654239,1.0
+Kidney Clear Cell Carcinoma,p53 Pathway,199,-0.06861105992545147,13.0
+Kidney Clear Cell Carcinoma,UV Response Up,157,-0.06866304418235476,14.0
+Kidney Clear Cell Carcinoma,UV Response Dn,143,-0.3142113460235429,49.0
+Kidney Clear Cell Carcinoma,Angiogenesis,36,-0.0960821407840515,21.0
+Kidney Clear Cell Carcinoma,heme Metabolism,199,-0.22718220701204475,41.0
+Kidney Clear Cell Carcinoma,Coagulation,138,0.01669395759686044,4.0
+Kidney Clear Cell Carcinoma,IL-2/STAT5 Signaling,197,-0.16452262358672323,34.0
+Kidney Clear Cell Carcinoma,Bile Acid Metabolism,111,-0.16895285669774246,35.0
+Kidney Clear Cell Carcinoma,Pperoxisome,103,-0.08365510589856216,17.0
+Kidney Clear Cell Carcinoma,Allograft Rejection,200,-0.0013206417822834568,5.0
+Kidney Clear Cell Carcinoma,Spermatogenesis,133,-0.27673270047753235,46.0
+Kidney Clear Cell Carcinoma,KRAS Signaling Up,198,-0.2780587834371321,47.0
+Kidney Clear Cell Carcinoma,KRAS Signaling Dn,200,-0.08861989530443784,18.0
+Kidney Clear Cell Carcinoma,Pancreas Beta Cells,40,-0.1880083185361171,39.0
+Kidney Chromophobe,TNF-alpha Signaling via NF-kB,198,0.07700046423182928,35.0
+Kidney Chromophobe,Hypoxia,198,0.16840865088475918,13.0
+Kidney Chromophobe,Cholesterol Homeostasis,74,0.22601212077580474,8.0
+Kidney Chromophobe,Mitotic Spindle,198,0.15573011146870888,15.0
+Kidney Chromophobe,Wnt-beta Catenin Signaling,42,0.28294043454323564,2.0
+Kidney Chromophobe,TGF-beta Signaling,54,0.03630958847269756,43.0
+Kidney Chromophobe,IL-6/JAK/STAT3 Signaling,83,0.1274635175186309,24.0
+Kidney Chromophobe,DNA Repair,149,0.2703273057405857,3.0
+Kidney Chromophobe,G2-M Checkpoint,199,0.11887551494481799,27.0
+Kidney Chromophobe,Apoptosis,160,0.11069646868909506,28.0
+Kidney Chromophobe,Notch Signaling,32,0.12967904965970078,22.0
+Kidney Chromophobe,Adipogenesis,200,0.05927702301202719,40.0
+Kidney Chromophobe,Estrogen Response Early,198,0.10393346272243777,30.0
+Kidney Chromophobe,Estrogen Response Late,197,0.08053734179852247,34.0
+Kidney Chromophobe,Androgen Response,99,-0.022534643339692795,50.0
+Kidney Chromophobe,Myogenesis,199,0.2987602344851458,1.0
+Kidney Chromophobe,Protein Secretion,95,-0.009436351756315388,48.0
+Kidney Chromophobe,Interferon Alpha Response,97,0.15266305086631057,17.0
+Kidney Chromophobe,Interferon Gamma Response,197,0.14400067544154918,20.0
+Kidney Chromophobe,Apical Junction,197,0.2493069593439805,5.0
+Kidney Chromophobe,Apical Surface,44,0.10339392874080337,31.0
+Kidney Chromophobe,Hedgehog Signaling,36,0.06012416740932005,39.0
+Kidney Chromophobe,Complement,200,0.08146230345249422,33.0
+Kidney Chromophobe,Unfolded Protein Response,112,0.18314776342285927,12.0
+Kidney Chromophobe,PI3K/AKT/mTOR  Signaling,104,0.12300274987196291,26.0
+Kidney Chromophobe,mTORC1 Signaling,199,0.13271748711497242,21.0
+Kidney Chromophobe,E2F Targets,200,0.12305030058229251,25.0
+Kidney Chromophobe,Myc Targets V1,199,0.10236683305677029,32.0
+Kidney Chromophobe,Myc Targets V2,57,0.23809226035937306,6.0
+Kidney Chromophobe,Epithelial Mesenchymal Transition,200,0.14837902715815018,18.0
+Kidney Chromophobe,Inflammatory Response,200,0.07665895114016179,36.0
+Kidney Chromophobe,Xenobiotic Metabolism,199,0.154191716649014,16.0
+Kidney Chromophobe,Fatty Acid Metabolism,156,0.01315320344855361,44.0
+Kidney Chromophobe,Oxidative Phosphorylation,198,0.05805905816477899,41.0
+Kidney Chromophobe,Glycolysis,198,0.23045475916635366,7.0
+Kidney Chromophobe,Reactive Oxygen Species Pathway,48,0.22501392519902003,10.0
+Kidney Chromophobe,p53 Pathway,199,0.16606296350834235,14.0
+Kidney Chromophobe,UV Response Up,157,0.25820718632321965,4.0
+Kidney Chromophobe,UV Response Dn,143,-0.005521834493455843,46.0
+Kidney Chromophobe,Angiogenesis,36,0.0722173486751751,38.0
+Kidney Chromophobe,heme Metabolism,199,0.0741476588384475,37.0
+Kidney Chromophobe,Coagulation,137,0.22563234973228022,9.0
+Kidney Chromophobe,IL-2/STAT5 Signaling,197,0.10809314075145444,29.0
+Kidney Chromophobe,Bile Acid Metabolism,111,-0.0003186027724150059,45.0
+Kidney Chromophobe,Pperoxisome,103,0.04842738001457126,42.0
+Kidney Chromophobe,Allograft Rejection,200,0.19420819191049238,11.0
+Kidney Chromophobe,Spermatogenesis,129,0.14418867436217822,19.0
+Kidney Chromophobe,KRAS Signaling Up,198,-0.012348410433977507,49.0
+Kidney Chromophobe,KRAS Signaling Dn,199,0.12790653338744365,23.0
+Kidney Chromophobe,Pancreas Beta Cells,39,-0.007812240403541615,47.0
+Head & Neck Squamous Cell Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.1289129745385904,42.0
+Head & Neck Squamous Cell Carcinoma,Hypoxia,198,0.057331710901680294,12.0
+Head & Neck Squamous Cell Carcinoma,Cholesterol Homeostasis,74,0.015058674744768475,19.0
+Head & Neck Squamous Cell Carcinoma,Mitotic Spindle,198,-0.04820768959303584,28.0
+Head & Neck Squamous Cell Carcinoma,Wnt-beta Catenin Signaling,42,0.0024488957735041036,21.0
+Head & Neck Squamous Cell Carcinoma,TGF-beta Signaling,54,-0.16182323165076223,46.0
+Head & Neck Squamous Cell Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.15884591490855066,45.0
+Head & Neck Squamous Cell Carcinoma,DNA Repair,149,0.15149900692024618,5.0
+Head & Neck Squamous Cell Carcinoma,G2-M Checkpoint,199,0.03941711019488262,16.0
+Head & Neck Squamous Cell Carcinoma,Apoptosis,160,-0.054693443471294435,29.0
+Head & Neck Squamous Cell Carcinoma,Notch Signaling,32,0.021815839399244964,18.0
+Head & Neck Squamous Cell Carcinoma,Adipogenesis,200,0.07727059086419583,9.0
+Head & Neck Squamous Cell Carcinoma,Estrogen Response Early,198,-0.16271734660877057,47.0
+Head & Neck Squamous Cell Carcinoma,Estrogen Response Late,197,-0.09519164653198162,35.0
+Head & Neck Squamous Cell Carcinoma,Androgen Response,99,-0.11622912738444927,40.0
+Head & Neck Squamous Cell Carcinoma,Myogenesis,199,-0.10596801230100661,37.0
+Head & Neck Squamous Cell Carcinoma,Protein Secretion,95,-0.1558775447995398,44.0
+Head & Neck Squamous Cell Carcinoma,Interferon Alpha Response,97,-0.09716049921699504,36.0
+Head & Neck Squamous Cell Carcinoma,Interferon Gamma Response,197,-0.12025806925394567,41.0
+Head & Neck Squamous Cell Carcinoma,Apical Junction,197,-0.09363312552591446,34.0
+Head & Neck Squamous Cell Carcinoma,Apical Surface,44,-0.08642392706782638,32.0
+Head & Neck Squamous Cell Carcinoma,Hedgehog Signaling,36,-0.011982457622639291,22.0
+Head & Neck Squamous Cell Carcinoma,Complement,200,-0.14308362593117055,43.0
+Head & Neck Squamous Cell Carcinoma,Unfolded Protein Response,112,0.05480087426146012,14.0
+Head & Neck Squamous Cell Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.0824969582866692,31.0
+Head & Neck Squamous Cell Carcinoma,mTORC1 Signaling,199,0.08842618429447395,8.0
+Head & Neck Squamous Cell Carcinoma,E2F Targets,200,0.11286856253829197,7.0
+Head & Neck Squamous Cell Carcinoma,Myc Targets V1,199,0.15870275783349067,4.0
+Head & Neck Squamous Cell Carcinoma,Myc Targets V2,57,0.1680979636160965,3.0
+Head & Neck Squamous Cell Carcinoma,Epithelial Mesenchymal Transition,200,0.03596946402759309,17.0
+Head & Neck Squamous Cell Carcinoma,Inflammatory Response,200,-0.1737341965813651,49.0
+Head & Neck Squamous Cell Carcinoma,Xenobiotic Metabolism,199,0.062165573921910904,10.0
+Head & Neck Squamous Cell Carcinoma,Fatty Acid Metabolism,156,0.05714226806668895,13.0
+Head & Neck Squamous Cell Carcinoma,Oxidative Phosphorylation,198,0.23058228596762811,1.0
+Head & Neck Squamous Cell Carcinoma,Glycolysis,198,0.14183415409982203,6.0
+Head & Neck Squamous Cell Carcinoma,Reactive Oxygen Species Pathway,48,0.22820113862884658,2.0
+Head & Neck Squamous Cell Carcinoma,p53 Pathway,199,-0.0317560231182688,27.0
+Head & Neck Squamous Cell Carcinoma,UV Response Up,157,0.06087911311283484,11.0
+Head & Neck Squamous Cell Carcinoma,UV Response Dn,143,-0.17100400731222032,48.0
+Head & Neck Squamous Cell Carcinoma,Angiogenesis,36,-0.014816167222829772,23.0
+Head & Neck Squamous Cell Carcinoma,heme Metabolism,199,-0.11056933506974616,39.0
+Head & Neck Squamous Cell Carcinoma,Coagulation,138,-0.03078649173873807,26.0
+Head & Neck Squamous Cell Carcinoma,IL-2/STAT5 Signaling,197,-0.0688457721036139,30.0
+Head & Neck Squamous Cell Carcinoma,Bile Acid Metabolism,111,-0.0924438177919924,33.0
+Head & Neck Squamous Cell Carcinoma,Pperoxisome,103,0.0030728103102757778,20.0
+Head & Neck Squamous Cell Carcinoma,Allograft Rejection,200,-0.0165418544274791,24.0
+Head & Neck Squamous Cell Carcinoma,Spermatogenesis,133,0.040714180259500625,15.0
+Head & Neck Squamous Cell Carcinoma,KRAS Signaling Up,198,-0.18367627759614763,50.0
+Head & Neck Squamous Cell Carcinoma,KRAS Signaling Dn,200,-0.10704927325756916,38.0
+Head & Neck Squamous Cell Carcinoma,Pancreas Beta Cells,40,-0.027457710793231994,25.0
+Glioblastoma Multiforme,TNF-alpha Signaling via NF-kB,198,-0.021598793314675516,4.0
+Glioblastoma Multiforme,Hypoxia,198,0.06826576095586614,2.0
+Glioblastoma Multiforme,Cholesterol Homeostasis,74,-0.18816123299551174,18.0
+Glioblastoma Multiforme,Mitotic Spindle,198,-0.3370527115396024,41.0
+Glioblastoma Multiforme,Wnt-beta Catenin Signaling,42,-0.32300829939166487,38.0
+Glioblastoma Multiforme,TGF-beta Signaling,54,-0.27478646543017704,31.0
+Glioblastoma Multiforme,IL-6/JAK/STAT3 Signaling,83,-0.07377930098541442,8.0
+Glioblastoma Multiforme,DNA Repair,149,-0.20151386471858102,20.0
+Glioblastoma Multiforme,G2-M Checkpoint,199,-0.1567022767414694,17.0
+Glioblastoma Multiforme,Apoptosis,160,-0.19284347059240872,19.0
+Glioblastoma Multiforme,Notch Signaling,32,-0.3727860732493256,44.0
+Glioblastoma Multiforme,Adipogenesis,200,-0.3167791961952879,36.0
+Glioblastoma Multiforme,Estrogen Response Early,198,-0.3227130432761799,37.0
+Glioblastoma Multiforme,Estrogen Response Late,197,-0.29050849068187723,33.0
+Glioblastoma Multiforme,Androgen Response,99,-0.2566486357816769,27.0
+Glioblastoma Multiforme,Myogenesis,199,-0.33426153459445906,39.0
+Glioblastoma Multiforme,Protein Secretion,95,-0.33534657177673866,40.0
+Glioblastoma Multiforme,Interferon Alpha Response,97,-0.2414419082902646,23.0
+Glioblastoma Multiforme,Interferon Gamma Response,197,-0.22323349678237053,21.0
+Glioblastoma Multiforme,Apical Junction,197,-0.2464019435020682,25.0
+Glioblastoma Multiforme,Apical Surface,44,-0.3031684807685185,35.0
+Glioblastoma Multiforme,Hedgehog Signaling,36,-0.2771562440123108,32.0
+Glioblastoma Multiforme,Complement,200,-0.27440245778729183,30.0
+Glioblastoma Multiforme,Unfolded Protein Response,112,-0.11035219060206329,12.0
+Glioblastoma Multiforme,PI3K/AKT/mTOR  Signaling,105,-0.26793929381289355,29.0
+Glioblastoma Multiforme,mTORC1 Signaling,199,-0.07983297765240785,9.0
+Glioblastoma Multiforme,E2F Targets,200,-0.11544923355559684,13.0
+Glioblastoma Multiforme,Myc Targets V1,199,-0.027519521850045595,5.0
+Glioblastoma Multiforme,Myc Targets V2,57,-0.08327286719442813,10.0
+Glioblastoma Multiforme,Epithelial Mesenchymal Transition,200,-0.0032162018750604743,3.0
+Glioblastoma Multiforme,Inflammatory Response,200,-0.1421078037754536,16.0
+Glioblastoma Multiforme,Xenobiotic Metabolism,199,-0.3991422075629529,47.0
+Glioblastoma Multiforme,Fatty Acid Metabolism,156,-0.39388972832113334,46.0
+Glioblastoma Multiforme,Oxidative Phosphorylation,198,0.08243846843791271,1.0
+Glioblastoma Multiforme,Glycolysis,198,-0.0336514797982426,7.0
+Glioblastoma Multiforme,Reactive Oxygen Species Pathway,48,-0.03209331321754136,6.0
+Glioblastoma Multiforme,p53 Pathway,199,-0.23112983662180767,22.0
+Glioblastoma Multiforme,UV Response Up,157,-0.25488765630326987,26.0
+Glioblastoma Multiforme,UV Response Dn,143,-0.3936829729567769,45.0
+Glioblastoma Multiforme,Angiogenesis,36,-0.09514250060937894,11.0
+Glioblastoma Multiforme,heme Metabolism,199,-0.4264589164551308,49.0
+Glioblastoma Multiforme,Coagulation,138,-0.13883751756645418,15.0
+Glioblastoma Multiforme,IL-2/STAT5 Signaling,197,-0.24160578438778008,24.0
+Glioblastoma Multiforme,Bile Acid Metabolism,111,-0.5099074972860212,50.0
+Glioblastoma Multiforme,Pperoxisome,103,-0.36342155224001976,43.0
+Glioblastoma Multiforme,Allograft Rejection,200,-0.12908053487801363,14.0
+Glioblastoma Multiforme,Spermatogenesis,132,-0.34963138522894494,42.0
+Glioblastoma Multiforme,KRAS Signaling Up,198,-0.2985494384609119,34.0
+Glioblastoma Multiforme,KRAS Signaling Dn,200,-0.40621156441560624,48.0
+Glioblastoma Multiforme,Pancreas Beta Cells,40,-0.2594381604101921,28.0
+Esophageal Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.020173951520147632,24.0
+Esophageal Carcinoma,Hypoxia,198,0.10829750272134937,11.0
+Esophageal Carcinoma,Cholesterol Homeostasis,74,-0.07791415614557415,29.0
+Esophageal Carcinoma,Mitotic Spindle,198,-0.044161475169717045,27.0
+Esophageal Carcinoma,Wnt-beta Catenin Signaling,42,0.13535876798044777,9.0
+Esophageal Carcinoma,TGF-beta Signaling,54,-0.14282302186518878,33.0
+Esophageal Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.16209434863117556,37.0
+Esophageal Carcinoma,DNA Repair,149,0.21886835892137432,4.0
+Esophageal Carcinoma,G2-M Checkpoint,199,0.1698481557336337,7.0
+Esophageal Carcinoma,Apoptosis,160,-0.081889723909622,30.0
+Esophageal Carcinoma,Notch Signaling,32,-0.0911331109954199,31.0
+Esophageal Carcinoma,Adipogenesis,200,-0.15329847685667106,35.0
+Esophageal Carcinoma,Estrogen Response Early,198,-0.2045891372005081,40.0
+Esophageal Carcinoma,Estrogen Response Late,197,-0.06484474425084896,28.0
+Esophageal Carcinoma,Androgen Response,99,-0.23957788254616263,44.0
+Esophageal Carcinoma,Myogenesis,199,-0.0317929174198371,26.0
+Esophageal Carcinoma,Protein Secretion,95,-0.23113093068776353,43.0
+Esophageal Carcinoma,Interferon Alpha Response,97,0.06486327495327082,13.0
+Esophageal Carcinoma,Interferon Gamma Response,197,0.053916040417012805,15.0
+Esophageal Carcinoma,Apical Junction,197,0.024099185119446486,20.0
+Esophageal Carcinoma,Apical Surface,44,0.062333337519871974,14.0
+Esophageal Carcinoma,Hedgehog Signaling,36,-0.030009126348184423,25.0
+Esophageal Carcinoma,Complement,200,-0.214249098968055,42.0
+Esophageal Carcinoma,Unfolded Protein Response,112,0.036200161501737195,17.0
+Esophageal Carcinoma,PI3K/AKT/mTOR  Signaling,105,0.012836734354198812,21.0
+Esophageal Carcinoma,mTORC1 Signaling,199,0.2023969678799236,5.0
+Esophageal Carcinoma,E2F Targets,200,0.2532007413798194,3.0
+Esophageal Carcinoma,Myc Targets V1,199,0.3395708833330006,1.0
+Esophageal Carcinoma,Myc Targets V2,57,0.2597287309501242,2.0
+Esophageal Carcinoma,Epithelial Mesenchymal Transition,200,0.14642592413583846,8.0
+Esophageal Carcinoma,Inflammatory Response,200,-0.09798212162668737,32.0
+Esophageal Carcinoma,Xenobiotic Metabolism,199,-0.24214824591489661,45.0
+Esophageal Carcinoma,Fatty Acid Metabolism,156,-0.1482092937893194,34.0
+Esophageal Carcinoma,Oxidative Phosphorylation,198,0.11957658295623619,10.0
+Esophageal Carcinoma,Glycolysis,198,0.027685293642574334,19.0
+Esophageal Carcinoma,Reactive Oxygen Species Pathway,48,0.19588064543081224,6.0
+Esophageal Carcinoma,p53 Pathway,199,0.09873423275267673,12.0
+Esophageal Carcinoma,UV Response Up,157,0.028532715498181017,18.0
+Esophageal Carcinoma,UV Response Dn,143,-0.21029600668902912,41.0
+Esophageal Carcinoma,Angiogenesis,36,-0.2809760808694427,46.0
+Esophageal Carcinoma,heme Metabolism,199,-0.16206117021047445,36.0
+Esophageal Carcinoma,Coagulation,138,-0.3027940813118219,47.0
+Esophageal Carcinoma,IL-2/STAT5 Signaling,197,-0.17494842088516074,38.0
+Esophageal Carcinoma,Bile Acid Metabolism,111,-0.36057708945724926,49.0
+Esophageal Carcinoma,Pperoxisome,103,-0.1821724171115018,39.0
+Esophageal Carcinoma,Allograft Rejection,200,0.04027050008807794,16.0
+Esophageal Carcinoma,Spermatogenesis,133,-0.017012964351262084,23.0
+Esophageal Carcinoma,KRAS Signaling Up,198,-0.33368781499695216,48.0
+Esophageal Carcinoma,KRAS Signaling Dn,200,-0.006725241335047433,22.0
+Esophageal Carcinoma,Pancreas Beta Cells,40,-0.3876102736059204,50.0
+Diffuse Large B-Cell Lymphoma,TNF-alpha Signaling via NF-kB,198,-0.3142273790723523,35.0
+Diffuse Large B-Cell Lymphoma,Hypoxia,198,-0.17747903897734152,23.0
+Diffuse Large B-Cell Lymphoma,Cholesterol Homeostasis,74,-0.1516473950098593,17.0
+Diffuse Large B-Cell Lymphoma,Mitotic Spindle,198,-0.32755013117017695,38.0
+Diffuse Large B-Cell Lymphoma,Wnt-beta Catenin Signaling,42,-0.35908815603544736,41.0
+Diffuse Large B-Cell Lymphoma,TGF-beta Signaling,54,-0.46532954698750867,50.0
+Diffuse Large B-Cell Lymphoma,IL-6/JAK/STAT3 Signaling,83,-0.3838470201158084,44.0
+Diffuse Large B-Cell Lymphoma,DNA Repair,149,-0.006695166953825423,6.0
+Diffuse Large B-Cell Lymphoma,G2-M Checkpoint,199,-0.14657011079426852,16.0
+Diffuse Large B-Cell Lymphoma,Apoptosis,160,-0.3373516376450623,40.0
+Diffuse Large B-Cell Lymphoma,Notch Signaling,32,-0.2293489089946809,28.0
+Diffuse Large B-Cell Lymphoma,Adipogenesis,200,-0.025862246730163605,8.0
+Diffuse Large B-Cell Lymphoma,Estrogen Response Early,198,-0.31984649938966575,36.0
+Diffuse Large B-Cell Lymphoma,Estrogen Response Late,197,-0.20846127757889607,25.0
+Diffuse Large B-Cell Lymphoma,Androgen Response,99,-0.2597541665717967,31.0
+Diffuse Large B-Cell Lymphoma,Myogenesis,199,-0.16332853130556702,19.0
+Diffuse Large B-Cell Lymphoma,Protein Secretion,95,-0.37740431209270553,42.0
+Diffuse Large B-Cell Lymphoma,Interferon Alpha Response,97,0.11915089611961131,2.0
+Diffuse Large B-Cell Lymphoma,Interferon Gamma Response,197,-0.02386261119894938,7.0
+Diffuse Large B-Cell Lymphoma,Apical Junction,197,-0.38780733302412146,45.0
+Diffuse Large B-Cell Lymphoma,Apical Surface,44,-0.4511497283140461,48.0
+Diffuse Large B-Cell Lymphoma,Hedgehog Signaling,36,-0.4408458229561693,47.0
+Diffuse Large B-Cell Lymphoma,Complement,200,-0.17666184196007403,22.0
+Diffuse Large B-Cell Lymphoma,Unfolded Protein Response,112,-0.15222796294995866,18.0
+Diffuse Large B-Cell Lymphoma,PI3K/AKT/mTOR  Signaling,105,-0.2757424209163267,33.0
+Diffuse Large B-Cell Lymphoma,mTORC1 Signaling,199,-0.14123907951839149,15.0
+Diffuse Large B-Cell Lymphoma,E2F Targets,200,-0.06464335372441946,12.0
+Diffuse Large B-Cell Lymphoma,Myc Targets V1,199,0.032665397883316356,3.0
+Diffuse Large B-Cell Lymphoma,Myc Targets V2,57,0.013060030531245858,5.0
+Diffuse Large B-Cell Lymphoma,Epithelial Mesenchymal Transition,200,-0.055956761161985086,10.0
+Diffuse Large B-Cell Lymphoma,Inflammatory Response,200,-0.24506673415953203,29.0
+Diffuse Large B-Cell Lymphoma,Xenobiotic Metabolism,199,-0.1744106632982133,21.0
+Diffuse Large B-Cell Lymphoma,Fatty Acid Metabolism,156,-0.060463967239258946,11.0
+Diffuse Large B-Cell Lymphoma,Oxidative Phosphorylation,198,0.30957074511642835,1.0
+Diffuse Large B-Cell Lymphoma,Glycolysis,198,-0.12590905492590268,13.0
+Diffuse Large B-Cell Lymphoma,Reactive Oxygen Species Pathway,48,-0.05398437244509037,9.0
+Diffuse Large B-Cell Lymphoma,p53 Pathway,199,-0.27305981160279297,32.0
+Diffuse Large B-Cell Lymphoma,UV Response Up,157,-0.13693862531032125,14.0
+Diffuse Large B-Cell Lymphoma,UV Response Dn,143,-0.45310573607019916,49.0
+Diffuse Large B-Cell Lymphoma,Angiogenesis,36,-0.20375645768562625,24.0
+Diffuse Large B-Cell Lymphoma,heme Metabolism,199,-0.37870464319814245,43.0
+Diffuse Large B-Cell Lymphoma,Coagulation,138,0.018667493296159004,4.0
+Diffuse Large B-Cell Lymphoma,IL-2/STAT5 Signaling,197,-0.258949489696143,30.0
+Diffuse Large B-Cell Lymphoma,Bile Acid Metabolism,111,-0.41146699348538107,46.0
+Diffuse Large B-Cell Lymphoma,Pperoxisome,103,-0.2118667183348659,27.0
+Diffuse Large B-Cell Lymphoma,Allograft Rejection,200,-0.17166053259052017,20.0
+Diffuse Large B-Cell Lymphoma,Spermatogenesis,133,-0.28857662585657723,34.0
+Diffuse Large B-Cell Lymphoma,KRAS Signaling Up,198,-0.3249871965602823,37.0
+Diffuse Large B-Cell Lymphoma,KRAS Signaling Dn,200,-0.33532346563461735,39.0
+Diffuse Large B-Cell Lymphoma,Pancreas Beta Cells,40,-0.21182952219393003,26.0
+Colon Adenocarcinoma,TNF-alpha Signaling via NF-kB,198,0.16928958440047545,25.0
+Colon Adenocarcinoma,Hypoxia,198,0.22340173084778733,16.0
+Colon Adenocarcinoma,Cholesterol Homeostasis,74,0.23616313405207728,14.0
+Colon Adenocarcinoma,Mitotic Spindle,198,0.03513083816235199,37.0
+Colon Adenocarcinoma,Wnt-beta Catenin Signaling,42,-0.05666110577987646,47.0
+Colon Adenocarcinoma,TGF-beta Signaling,54,-0.05345881840220948,46.0
+Colon Adenocarcinoma,IL-6/JAK/STAT3 Signaling,83,0.2050933407988715,18.0
+Colon Adenocarcinoma,DNA Repair,149,0.31499083578622905,8.0
+Colon Adenocarcinoma,G2-M Checkpoint,199,0.2392645228958395,12.0
+Colon Adenocarcinoma,Apoptosis,160,0.18770726807945798,22.0
+Colon Adenocarcinoma,Notch Signaling,32,0.019221748573878993,39.0
+Colon Adenocarcinoma,Adipogenesis,200,0.21880645507388885,17.0
+Colon Adenocarcinoma,Estrogen Response Early,198,0.07918726412514138,33.0
+Colon Adenocarcinoma,Estrogen Response Late,197,0.19822789864853818,20.0
+Colon Adenocarcinoma,Androgen Response,99,0.0641610518748338,34.0
+Colon Adenocarcinoma,Myogenesis,199,-0.032092083929882664,45.0
+Colon Adenocarcinoma,Protein Secretion,95,0.014837898792113663,41.0
+Colon Adenocarcinoma,Interferon Alpha Response,97,0.2002076374888842,19.0
+Colon Adenocarcinoma,Interferon Gamma Response,197,0.2300321057650562,15.0
+Colon Adenocarcinoma,Apical Junction,197,-0.004656972295459956,43.0
+Colon Adenocarcinoma,Apical Surface,44,0.05933583679175163,35.0
+Colon Adenocarcinoma,Hedgehog Signaling,36,-0.15008264166853857,49.0
+Colon Adenocarcinoma,Complement,200,0.14237117144049308,28.0
+Colon Adenocarcinoma,Unfolded Protein Response,112,0.23844753447316014,13.0
+Colon Adenocarcinoma,PI3K/AKT/mTOR  Signaling,105,0.09428550783090801,31.0
+Colon Adenocarcinoma,mTORC1 Signaling,199,0.34385621669451566,3.0
+Colon Adenocarcinoma,E2F Targets,200,0.31745167471839325,6.0
+Colon Adenocarcinoma,Myc Targets V1,199,0.344980892156841,2.0
+Colon Adenocarcinoma,Myc Targets V2,57,0.34354197399170633,4.0
+Colon Adenocarcinoma,Epithelial Mesenchymal Transition,200,0.10903543014895539,29.0
+Colon Adenocarcinoma,Inflammatory Response,200,0.16326679292718094,26.0
+Colon Adenocarcinoma,Xenobiotic Metabolism,199,0.19608668467540202,21.0
+Colon Adenocarcinoma,Fatty Acid Metabolism,156,0.28633220999841,10.0
+Colon Adenocarcinoma,Oxidative Phosphorylation,198,0.392795336867325,1.0
+Colon Adenocarcinoma,Glycolysis,198,0.3358149188306946,5.0
+Colon Adenocarcinoma,Reactive Oxygen Species Pathway,48,0.28839499737612734,9.0
+Colon Adenocarcinoma,p53 Pathway,199,0.1718116795734907,23.0
+Colon Adenocarcinoma,UV Response Up,157,0.24411891645178446,11.0
+Colon Adenocarcinoma,UV Response Dn,143,-0.21076510115063601,50.0
+Colon Adenocarcinoma,Angiogenesis,36,0.05105722520331937,36.0
+Colon Adenocarcinoma,heme Metabolism,199,0.013807064150117692,42.0
+Colon Adenocarcinoma,Coagulation,138,0.09876650418604023,30.0
+Colon Adenocarcinoma,IL-2/STAT5 Signaling,197,0.16993956660108087,24.0
+Colon Adenocarcinoma,Bile Acid Metabolism,111,0.01788204718365686,40.0
+Colon Adenocarcinoma,Pperoxisome,103,0.1632543762852115,27.0
+Colon Adenocarcinoma,Allograft Rejection,200,0.3165885436380513,7.0
+Colon Adenocarcinoma,Spermatogenesis,133,0.019516967716849916,38.0
+Colon Adenocarcinoma,KRAS Signaling Up,198,-0.01028291490503344,44.0
+Colon Adenocarcinoma,KRAS Signaling Dn,200,-0.1427488297990799,48.0
+Colon Adenocarcinoma,Pancreas Beta Cells,40,0.09109200727900622,32.0
+Cholangiocarcinoma,TNF-alpha Signaling via NF-kB,198,-0.17777519114222354,15.0
+Cholangiocarcinoma,Hypoxia,198,-0.26296811238089524,23.0
+Cholangiocarcinoma,Cholesterol Homeostasis,74,-0.3144100872518633,27.0
+Cholangiocarcinoma,Mitotic Spindle,198,-0.24979967965767222,22.0
+Cholangiocarcinoma,Wnt-beta Catenin Signaling,42,-0.4507579497908341,47.0
+Cholangiocarcinoma,TGF-beta Signaling,54,-0.3997590634768404,41.0
+Cholangiocarcinoma,IL-6/JAK/STAT3 Signaling,83,-0.3229229331989911,34.0
+Cholangiocarcinoma,DNA Repair,149,-0.06624485082685258,10.0
+Cholangiocarcinoma,G2-M Checkpoint,199,-0.00286223958735779,6.0
+Cholangiocarcinoma,Apoptosis,160,-0.31487353414938524,28.0
+Cholangiocarcinoma,Notch Signaling,32,-0.4103150623334056,43.0
+Cholangiocarcinoma,Adipogenesis,200,-0.15843661862552147,14.0
+Cholangiocarcinoma,Estrogen Response Early,198,-0.454251770417376,48.0
+Cholangiocarcinoma,Estrogen Response Late,197,-0.3931856756747189,40.0
+Cholangiocarcinoma,Androgen Response,99,-0.3206477625997263,31.0
+Cholangiocarcinoma,Myogenesis,199,-0.4062433591505243,42.0
+Cholangiocarcinoma,Protein Secretion,95,-0.31863096291855136,30.0
+Cholangiocarcinoma,Interferon Alpha Response,97,-0.14303749983872532,13.0
+Cholangiocarcinoma,Interferon Gamma Response,197,-0.12713989255008518,11.0
+Cholangiocarcinoma,Apical Junction,197,-0.3119403122306287,26.0
+Cholangiocarcinoma,Apical Surface,44,-0.38714106459434156,38.0
+Cholangiocarcinoma,Hedgehog Signaling,36,-0.43508350071201796,45.0
+Cholangiocarcinoma,Complement,200,-0.32207578688693034,32.0
+Cholangiocarcinoma,Unfolded Protein Response,112,0.020263783748605095,5.0
+Cholangiocarcinoma,PI3K/AKT/mTOR  Signaling,105,-0.26781094220370244,24.0
+Cholangiocarcinoma,mTORC1 Signaling,199,0.10632302526748352,4.0
+Cholangiocarcinoma,E2F Targets,200,0.1337914423307653,3.0
+Cholangiocarcinoma,Myc Targets V1,199,0.1628457555756275,2.0
+Cholangiocarcinoma,Myc Targets V2,57,0.18585416028949056,1.0
+Cholangiocarcinoma,Epithelial Mesenchymal Transition,200,-0.22011227016634774,18.0
+Cholangiocarcinoma,Inflammatory Response,200,-0.21367804005177432,17.0
+Cholangiocarcinoma,Xenobiotic Metabolism,199,-0.2363520433821639,21.0
+Cholangiocarcinoma,Fatty Acid Metabolism,156,-0.23364695110203676,20.0
+Cholangiocarcinoma,Oxidative Phosphorylation,198,-0.06366154095975457,9.0
+Cholangiocarcinoma,Glycolysis,198,-0.006720224995739294,7.0
+Cholangiocarcinoma,Reactive Oxygen Species Pathway,48,-0.01830755838647458,8.0
+Cholangiocarcinoma,p53 Pathway,199,-0.14096754429956937,12.0
+Cholangiocarcinoma,UV Response Up,157,-0.3159157061369197,29.0
+Cholangiocarcinoma,UV Response Dn,143,-0.5484931354950524,50.0
+Cholangiocarcinoma,Angiogenesis,36,-0.3605095579790572,36.0
+Cholangiocarcinoma,heme Metabolism,199,-0.41425068174428925,44.0
+Cholangiocarcinoma,Coagulation,138,-0.18501388780919842,16.0
+Cholangiocarcinoma,IL-2/STAT5 Signaling,197,-0.3593911638892716,35.0
+Cholangiocarcinoma,Bile Acid Metabolism,111,-0.4359526290131262,46.0
+Cholangiocarcinoma,Pperoxisome,103,-0.3228224944957581,33.0
+Cholangiocarcinoma,Allograft Rejection,200,-0.22413132275795966,19.0
+Cholangiocarcinoma,Spermatogenesis,133,-0.30317202860765974,25.0
+Cholangiocarcinoma,KRAS Signaling Up,198,-0.36792949167206024,37.0
+Cholangiocarcinoma,KRAS Signaling Dn,200,-0.48143308867716667,49.0
+Cholangiocarcinoma,Pancreas Beta Cells,40,-0.38888186138717784,39.0
+Cervical & Endocervical Cancer,TNF-alpha Signaling via NF-kB,198,-0.17731612554097115,33.0
+Cervical & Endocervical Cancer,Hypoxia,198,-0.04775228194372082,13.0
+Cervical & Endocervical Cancer,Cholesterol Homeostasis,74,-0.12662949620402597,21.0
+Cervical & Endocervical Cancer,Mitotic Spindle,198,-0.14792657508393606,25.0
+Cervical & Endocervical Cancer,Wnt-beta Catenin Signaling,42,-0.07896127675789176,18.0
+Cervical & Endocervical Cancer,TGF-beta Signaling,54,-0.14890584734237958,26.0
+Cervical & Endocervical Cancer,IL-6/JAK/STAT3 Signaling,83,-0.1776642743847746,34.0
+Cervical & Endocervical Cancer,DNA Repair,149,0.05184670665147628,5.0
+Cervical & Endocervical Cancer,G2-M Checkpoint,199,-0.008142641263312173,11.0
+Cervical & Endocervical Cancer,Apoptosis,160,-0.1672360291651949,29.0
+Cervical & Endocervical Cancer,Notch Signaling,32,-0.2019274147052501,38.0
+Cervical & Endocervical Cancer,Adipogenesis,200,-0.12102422189232798,20.0
+Cervical & Endocervical Cancer,Estrogen Response Early,198,-0.35043776081929245,50.0
+Cervical & Endocervical Cancer,Estrogen Response Late,197,-0.3109976504249928,48.0
+Cervical & Endocervical Cancer,Androgen Response,99,-0.23763530131446273,43.0
+Cervical & Endocervical Cancer,Myogenesis,199,-0.1726897749243307,30.0
+Cervical & Endocervical Cancer,Protein Secretion,95,-0.18515888353072166,35.0
+Cervical & Endocervical Cancer,Interferon Alpha Response,97,0.023617781742972865,10.0
+Cervical & Endocervical Cancer,Interferon Gamma Response,197,-0.05806263728154434,15.0
+Cervical & Endocervical Cancer,Apical Junction,197,-0.13542693611689133,24.0
+Cervical & Endocervical Cancer,Apical Surface,44,-0.2678085547725147,44.0
+Cervical & Endocervical Cancer,Hedgehog Signaling,36,-0.0903798232156115,19.0
+Cervical & Endocervical Cancer,Complement,200,-0.21754136460633433,40.0
+Cervical & Endocervical Cancer,Unfolded Protein Response,112,0.030377242783231943,8.0
+Cervical & Endocervical Cancer,PI3K/AKT/mTOR  Signaling,105,-0.1319932489961568,23.0
+Cervical & Endocervical Cancer,mTORC1 Signaling,199,0.06494954816667677,4.0
+Cervical & Endocervical Cancer,E2F Targets,200,0.03160053958922472,7.0
+Cervical & Endocervical Cancer,Myc Targets V1,199,0.2288269605447578,2.0
+Cervical & Endocervical Cancer,Myc Targets V2,57,0.2522639733124271,1.0
+Cervical & Endocervical Cancer,Epithelial Mesenchymal Transition,200,0.03789931130294786,6.0
+Cervical & Endocervical Cancer,Inflammatory Response,200,-0.20910231251174982,39.0
+Cervical & Endocervical Cancer,Xenobiotic Metabolism,199,-0.21888798876810356,41.0
+Cervical & Endocervical Cancer,Fatty Acid Metabolism,156,-0.15295365154157115,27.0
+Cervical & Endocervical Cancer,Oxidative Phosphorylation,198,0.07692212610861915,3.0
+Cervical & Endocervical Cancer,Glycolysis,198,-0.049986268649453505,14.0
+Cervical & Endocervical Cancer,Reactive Oxygen Species Pathway,48,0.02652628285514847,9.0
+Cervical & Endocervical Cancer,p53 Pathway,199,-0.1734268420310987,31.0
+Cervical & Endocervical Cancer,UV Response Up,157,-0.07592001092045568,16.0
+Cervical & Endocervical Cancer,UV Response Dn,143,-0.27655499345717044,46.0
+Cervical & Endocervical Cancer,Angiogenesis,36,-0.03489444552021712,12.0
+Cervical & Endocervical Cancer,heme Metabolism,199,-0.2229463357627591,42.0
+Cervical & Endocervical Cancer,Coagulation,138,-0.18701016226499648,36.0
+Cervical & Endocervical Cancer,IL-2/STAT5 Signaling,197,-0.16509960452672123,28.0
+Cervical & Endocervical Cancer,Bile Acid Metabolism,111,-0.2717475044804453,45.0
+Cervical & Endocervical Cancer,Pperoxisome,103,-0.19020065361756028,37.0
+Cervical & Endocervical Cancer,Allograft Rejection,200,-0.07686006263955199,17.0
+Cervical & Endocervical Cancer,Spermatogenesis,133,-0.13105952105404758,22.0
+Cervical & Endocervical Cancer,KRAS Signaling Up,198,-0.3021411805550862,47.0
+Cervical & Endocervical Cancer,KRAS Signaling Dn,200,-0.32516333460358837,49.0
+Cervical & Endocervical Cancer,Pancreas Beta Cells,40,-0.17730504517606285,32.0
+Breast Invasive Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.01711206256532406,13.0
+Breast Invasive Carcinoma,Hypoxia,198,0.0012920321598263766,10.0
+Breast Invasive Carcinoma,Cholesterol Homeostasis,74,-0.02419617692082907,15.0
+Breast Invasive Carcinoma,Mitotic Spindle,198,-0.2131654220356173,45.0
+Breast Invasive Carcinoma,Wnt-beta Catenin Signaling,42,-0.05608938567866077,20.0
+Breast Invasive Carcinoma,TGF-beta Signaling,54,-0.22087401559789627,47.0
+Breast Invasive Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.06960757528462284,22.0
+Breast Invasive Carcinoma,DNA Repair,149,-0.017842996670856114,14.0
+Breast Invasive Carcinoma,G2-M Checkpoint,199,-0.13950763763235544,38.0
+Breast Invasive Carcinoma,Apoptosis,160,-0.11434535419795595,33.0
+Breast Invasive Carcinoma,Notch Signaling,32,-0.08176562647196702,25.0
+Breast Invasive Carcinoma,Adipogenesis,200,-0.05330129887911985,19.0
+Breast Invasive Carcinoma,Estrogen Response Early,198,-0.1307732332282024,35.0
+Breast Invasive Carcinoma,Estrogen Response Late,197,-0.062056523955723246,21.0
+Breast Invasive Carcinoma,Androgen Response,99,-0.309412151257453,49.0
+Breast Invasive Carcinoma,Myogenesis,199,0.0884804072386574,3.0
+Breast Invasive Carcinoma,Protein Secretion,95,-0.3397013023225757,50.0
+Breast Invasive Carcinoma,Interferon Alpha Response,97,-0.04965577972104536,18.0
+Breast Invasive Carcinoma,Interferon Gamma Response,197,-0.0838542751503065,26.0
+Breast Invasive Carcinoma,Apical Junction,197,-0.030810672523812088,16.0
+Breast Invasive Carcinoma,Apical Surface,44,-0.07486838626205032,24.0
+Breast Invasive Carcinoma,Hedgehog Signaling,36,-0.16125088676238317,40.0
+Breast Invasive Carcinoma,Complement,200,-0.16139995467177398,41.0
+Breast Invasive Carcinoma,Unfolded Protein Response,112,-0.1570719816228068,39.0
+Breast Invasive Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.19206211816468557,43.0
+Breast Invasive Carcinoma,mTORC1 Signaling,199,-0.13709879327839306,36.0
+Breast Invasive Carcinoma,E2F Targets,200,-0.09327460111256584,30.0
+Breast Invasive Carcinoma,Myc Targets V1,199,-0.07216994805645453,23.0
+Breast Invasive Carcinoma,Myc Targets V2,57,0.08530035213427263,4.0
+Breast Invasive Carcinoma,Epithelial Mesenchymal Transition,200,0.020539087010998994,7.0
+Breast Invasive Carcinoma,Inflammatory Response,200,-0.12848095038186177,34.0
+Breast Invasive Carcinoma,Xenobiotic Metabolism,199,0.013427058737105145,8.0
+Breast Invasive Carcinoma,Fatty Acid Metabolism,156,-0.09177732469411246,28.0
+Breast Invasive Carcinoma,Oxidative Phosphorylation,198,0.10072557091836684,1.0
+Breast Invasive Carcinoma,Glycolysis,198,-0.048608325617071416,17.0
+Breast Invasive Carcinoma,Reactive Oxygen Species Pathway,48,0.0916165495071591,2.0
+Breast Invasive Carcinoma,p53 Pathway,199,0.012302280967905354,9.0
+Breast Invasive Carcinoma,UV Response Up,157,-0.012566078233799356,12.0
+Breast Invasive Carcinoma,UV Response Dn,143,-0.3082437343643248,48.0
+Breast Invasive Carcinoma,Angiogenesis,36,-0.10556172175457873,31.0
+Breast Invasive Carcinoma,heme Metabolism,199,-0.21945160899548696,46.0
+Breast Invasive Carcinoma,Coagulation,138,0.04880179672817566,6.0
+Breast Invasive Carcinoma,IL-2/STAT5 Signaling,197,-0.09248288829481308,29.0
+Breast Invasive Carcinoma,Bile Acid Metabolism,111,-0.13947581804417097,37.0
+Breast Invasive Carcinoma,Pperoxisome,103,-0.11314707094681921,32.0
+Breast Invasive Carcinoma,Allograft Rejection,200,0.050878181347222676,5.0
+Breast Invasive Carcinoma,Spermatogenesis,133,-0.20048051962049768,44.0
+Breast Invasive Carcinoma,KRAS Signaling Up,198,-0.18830398443986252,42.0
+Breast Invasive Carcinoma,KRAS Signaling Dn,200,-0.00992837969327037,11.0
+Breast Invasive Carcinoma,Pancreas Beta Cells,40,-0.08890068163787483,27.0
+Brain Lower Grade Glioma,TNF-alpha Signaling via NF-kB,198,0.00858205928089591,20.0
+Brain Lower Grade Glioma,Hypoxia,198,-0.012179923702314495,24.0
+Brain Lower Grade Glioma,Cholesterol Homeostasis,74,0.01134952439528411,19.0
+Brain Lower Grade Glioma,Mitotic Spindle,198,-0.05534164601043882,32.0
+Brain Lower Grade Glioma,Wnt-beta Catenin Signaling,42,0.04099912068085549,15.0
+Brain Lower Grade Glioma,TGF-beta Signaling,54,-0.10503339931116452,40.0
+Brain Lower Grade Glioma,IL-6/JAK/STAT3 Signaling,83,0.021223951094179527,17.0
+Brain Lower Grade Glioma,DNA Repair,149,0.20263976080042717,3.0
+Brain Lower Grade Glioma,G2-M Checkpoint,199,0.0044255784592360115,22.0
+Brain Lower Grade Glioma,Apoptosis,160,-0.033186233354926244,26.0
+Brain Lower Grade Glioma,Notch Signaling,32,-0.08021289319200785,38.0
+Brain Lower Grade Glioma,Adipogenesis,200,0.014494573943963538,18.0
+Brain Lower Grade Glioma,Estrogen Response Early,198,-0.12867663847523889,42.0
+Brain Lower Grade Glioma,Estrogen Response Late,197,-0.07220249076356205,35.0
+Brain Lower Grade Glioma,Androgen Response,99,-0.19156164607932838,48.0
+Brain Lower Grade Glioma,Myogenesis,199,0.025481855535757426,16.0
+Brain Lower Grade Glioma,Protein Secretion,95,-0.186383176717402,47.0
+Brain Lower Grade Glioma,Interferon Alpha Response,97,0.04215810679905888,14.0
+Brain Lower Grade Glioma,Interferon Gamma Response,197,-0.002347691076786826,23.0
+Brain Lower Grade Glioma,Apical Junction,197,0.06251808508030263,12.0
+Brain Lower Grade Glioma,Apical Surface,44,-0.04489763109840462,29.0
+Brain Lower Grade Glioma,Hedgehog Signaling,36,-0.0762133262603478,36.0
+Brain Lower Grade Glioma,Complement,200,-0.076689280653336,37.0
+Brain Lower Grade Glioma,Unfolded Protein Response,112,0.07231391508078673,10.0
+Brain Lower Grade Glioma,PI3K/AKT/mTOR  Signaling,105,-0.033393703173144114,27.0
+Brain Lower Grade Glioma,mTORC1 Signaling,199,-0.047856361571541994,30.0
+Brain Lower Grade Glioma,E2F Targets,200,0.04904005124308228,13.0
+Brain Lower Grade Glioma,Myc Targets V1,199,0.10844045350666695,6.0
+Brain Lower Grade Glioma,Myc Targets V2,57,0.22960581468574032,1.0
+Brain Lower Grade Glioma,Epithelial Mesenchymal Transition,200,-0.06334763155573758,33.0
+Brain Lower Grade Glioma,Inflammatory Response,200,-0.1346623755449519,44.0
+Brain Lower Grade Glioma,Xenobiotic Metabolism,199,0.0070294875134287015,21.0
+Brain Lower Grade Glioma,Fatty Acid Metabolism,156,-0.06372794404920652,34.0
+Brain Lower Grade Glioma,Oxidative Phosphorylation,198,0.21387974541676866,2.0
+Brain Lower Grade Glioma,Glycolysis,198,0.09902494786449144,8.0
+Brain Lower Grade Glioma,Reactive Oxygen Species Pathway,48,0.18038248562430176,4.0
+Brain Lower Grade Glioma,p53 Pathway,199,0.11001666062758995,5.0
+Brain Lower Grade Glioma,UV Response Up,157,0.06640681802702486,11.0
+Brain Lower Grade Glioma,UV Response Dn,143,-0.24981786907544137,49.0
+Brain Lower Grade Glioma,Angiogenesis,36,-0.021342173613470062,25.0
+Brain Lower Grade Glioma,heme Metabolism,199,-0.14599567712244185,46.0
+Brain Lower Grade Glioma,Coagulation,138,0.08172997244123757,9.0
+Brain Lower Grade Glioma,IL-2/STAT5 Signaling,197,-0.05042561992547803,31.0
+Brain Lower Grade Glioma,Bile Acid Metabolism,111,-0.2585033843115605,50.0
+Brain Lower Grade Glioma,Pperoxisome,103,-0.04182047882071614,28.0
+Brain Lower Grade Glioma,Allograft Rejection,200,0.10410047554225911,7.0
+Brain Lower Grade Glioma,Spermatogenesis,133,-0.11525125952923848,41.0
+Brain Lower Grade Glioma,KRAS Signaling Up,198,-0.13070275562837166,43.0
+Brain Lower Grade Glioma,KRAS Signaling Dn,200,-0.1374919287614542,45.0
+Brain Lower Grade Glioma,Pancreas Beta Cells,40,-0.0870982213277164,39.0
+Bladder Urothelial Carcinoma,TNF-alpha Signaling via NF-kB,198,-0.06889453199464493,21.0
+Bladder Urothelial Carcinoma,Hypoxia,198,0.05396887032874193,7.0
+Bladder Urothelial Carcinoma,Cholesterol Homeostasis,74,-0.07158025284519519,22.0
+Bladder Urothelial Carcinoma,Mitotic Spindle,198,-0.09605633738719295,28.0
+Bladder Urothelial Carcinoma,Wnt-beta Catenin Signaling,42,-0.10973971220916355,30.0
+Bladder Urothelial Carcinoma,TGF-beta Signaling,54,-0.12808459324237495,32.0
+Bladder Urothelial Carcinoma,IL-6/JAK/STAT3 Signaling,83,-0.05300183173505563,18.0
+Bladder Urothelial Carcinoma,DNA Repair,149,0.042239601247315114,10.0
+Bladder Urothelial Carcinoma,G2-M Checkpoint,199,-0.0010502753339287677,15.0
+Bladder Urothelial Carcinoma,Apoptosis,160,-0.05573453841261655,19.0
+Bladder Urothelial Carcinoma,Notch Signaling,32,-0.11592835060220309,31.0
+Bladder Urothelial Carcinoma,Adipogenesis,200,-0.13485799880075766,34.0
+Bladder Urothelial Carcinoma,Estrogen Response Early,198,-0.23972754874616792,48.0
+Bladder Urothelial Carcinoma,Estrogen Response Late,197,-0.1897560208035954,43.0
+Bladder Urothelial Carcinoma,Androgen Response,99,-0.20025547661815885,46.0
+Bladder Urothelial Carcinoma,Myogenesis,199,-0.10069626237773083,29.0
+Bladder Urothelial Carcinoma,Protein Secretion,95,-0.14030024729795063,35.0
+Bladder Urothelial Carcinoma,Interferon Alpha Response,97,0.08325548345300324,5.0
+Bladder Urothelial Carcinoma,Interferon Gamma Response,197,0.02042161703631644,13.0
+Bladder Urothelial Carcinoma,Apical Junction,197,-0.08240849901474713,26.0
+Bladder Urothelial Carcinoma,Apical Surface,44,-0.18538348663481194,41.0
+Bladder Urothelial Carcinoma,Hedgehog Signaling,36,-0.14591990227662702,36.0
+Bladder Urothelial Carcinoma,Complement,200,-0.0806969400935013,23.0
+Bladder Urothelial Carcinoma,Unfolded Protein Response,112,0.02244282862939866,12.0
+Bladder Urothelial Carcinoma,PI3K/AKT/mTOR  Signaling,105,-0.0851725342746625,27.0
+Bladder Urothelial Carcinoma,mTORC1 Signaling,199,0.04780473829312722,8.0
+Bladder Urothelial Carcinoma,E2F Targets,200,0.018418405308575272,14.0
+Bladder Urothelial Carcinoma,Myc Targets V1,199,0.09896821750465365,3.0
+Bladder Urothelial Carcinoma,Myc Targets V2,57,0.14334847380329435,1.0
+Bladder Urothelial Carcinoma,Epithelial Mesenchymal Transition,200,0.09644792712946555,4.0
+Bladder Urothelial Carcinoma,Inflammatory Response,200,-0.08122865614733887,24.0
+Bladder Urothelial Carcinoma,Xenobiotic Metabolism,199,-0.16747768218471942,38.0
+Bladder Urothelial Carcinoma,Fatty Acid Metabolism,156,-0.16703679851954734,37.0
+Bladder Urothelial Carcinoma,Oxidative Phosphorylation,198,0.10064103252569248,2.0
+Bladder Urothelial Carcinoma,Glycolysis,198,0.04019425986336013,11.0
+Bladder Urothelial Carcinoma,Reactive Oxygen Species Pathway,48,0.06656346539235392,6.0
+Bladder Urothelial Carcinoma,p53 Pathway,199,-0.02681764219982685,17.0
+Bladder Urothelial Carcinoma,UV Response Up,157,-0.08149847464988022,25.0
+Bladder Urothelial Carcinoma,UV Response Dn,143,-0.236414511779671,47.0
+Bladder Urothelial Carcinoma,Angiogenesis,36,-0.002875562247439282,16.0
+Bladder Urothelial Carcinoma,heme Metabolism,199,-0.1844696750344387,40.0
+Bladder Urothelial Carcinoma,Coagulation,138,-0.05687074959995449,20.0
+Bladder Urothelial Carcinoma,IL-2/STAT5 Signaling,197,-0.13146157778156484,33.0
+Bladder Urothelial Carcinoma,Bile Acid Metabolism,111,-0.29759167600815023,50.0
+Bladder Urothelial Carcinoma,Pperoxisome,103,-0.19890758664010552,45.0
+Bladder Urothelial Carcinoma,Allograft Rejection,200,0.047740010680774256,9.0
+Bladder Urothelial Carcinoma,Spermatogenesis,133,-0.16904525936726722,39.0
+Bladder Urothelial Carcinoma,KRAS Signaling Up,198,-0.19759005489647954,44.0
+Bladder Urothelial Carcinoma,KRAS Signaling Dn,200,-0.24612127825232236,49.0
+Bladder Urothelial Carcinoma,Pancreas Beta Cells,40,-0.18598612399688672,42.0
+Adrenocortical Cancer,TNF-alpha Signaling via NF-kB,198,0.16541153190787797,30.0
+Adrenocortical Cancer,Hypoxia,198,0.28387989069814934,14.0
+Adrenocortical Cancer,Cholesterol Homeostasis,74,0.3654700765273307,5.0
+Adrenocortical Cancer,Mitotic Spindle,198,0.1499381904576313,32.0
+Adrenocortical Cancer,Wnt-beta Catenin Signaling,42,0.12515217168670936,40.0
+Adrenocortical Cancer,TGF-beta Signaling,54,0.1260226575078595,39.0
+Adrenocortical Cancer,IL-6/JAK/STAT3 Signaling,83,0.17901674811972984,29.0
+Adrenocortical Cancer,DNA Repair,149,0.3691507315710486,4.0
+Adrenocortical Cancer,G2-M Checkpoint,199,0.2630123221026625,16.0
+Adrenocortical Cancer,Apoptosis,160,0.19016653786502605,26.0
+Adrenocortical Cancer,Notch Signaling,32,0.03319012390344827,47.0
+Adrenocortical Cancer,Adipogenesis,200,0.23715476343369526,20.0
+Adrenocortical Cancer,Estrogen Response Early,198,0.14062318360112727,35.0
+Adrenocortical Cancer,Estrogen Response Late,197,0.262083527146485,17.0
+Adrenocortical Cancer,Androgen Response,99,0.08068101153641467,45.0
+Adrenocortical Cancer,Myogenesis,199,0.28965872196331843,12.0
+Adrenocortical Cancer,Protein Secretion,95,0.05814045518656907,46.0
+Adrenocortical Cancer,Interferon Alpha Response,97,0.18181986563986438,28.0
+Adrenocortical Cancer,Interferon Gamma Response,197,0.1315736199703955,37.0
+Adrenocortical Cancer,Apical Junction,197,0.1353082789475305,36.0
+Adrenocortical Cancer,Apical Surface,44,0.11325688276245723,41.0
+Adrenocortical Cancer,Hedgehog Signaling,36,0.007298869153100998,48.0
+Adrenocortical Cancer,Complement,200,0.2086883500585159,25.0
+Adrenocortical Cancer,Unfolded Protein Response,112,0.23752426350327818,19.0
+Adrenocortical Cancer,PI3K/AKT/mTOR  Signaling,104,0.149824520144226,33.0
+Adrenocortical Cancer,mTORC1 Signaling,199,0.358680616089472,6.0
+Adrenocortical Cancer,E2F Targets,200,0.28474669137596037,13.0
+Adrenocortical Cancer,Myc Targets V1,199,0.3747421699814238,3.0
+Adrenocortical Cancer,Myc Targets V2,57,0.37726966556467323,2.0
+Adrenocortical Cancer,Epithelial Mesenchymal Transition,200,0.10987137341769114,42.0
+Adrenocortical Cancer,Inflammatory Response,200,0.14084962946104065,34.0
+Adrenocortical Cancer,Xenobiotic Metabolism,199,0.3391623510499323,7.0
+Adrenocortical Cancer,Fatty Acid Metabolism,156,0.2657290693043677,15.0
+Adrenocortical Cancer,Oxidative Phosphorylation,198,0.22221135556429103,23.0
+Adrenocortical Cancer,Glycolysis,198,0.30763249418307503,11.0
+Adrenocortical Cancer,Reactive Oxygen Species Pathway,48,0.31635964903569735,8.0
+Adrenocortical Cancer,p53 Pathway,199,0.22468454628263496,22.0
+Adrenocortical Cancer,UV Response Up,157,0.3107077664309861,10.0
+Adrenocortical Cancer,UV Response Dn,143,-0.049879108553019,50.0
+Adrenocortical Cancer,Angiogenesis,36,-0.011383908988151906,49.0
+Adrenocortical Cancer,heme Metabolism,199,0.10446971743737661,44.0
+Adrenocortical Cancer,Coagulation,138,0.315690158248415,9.0
+Adrenocortical Cancer,IL-2/STAT5 Signaling,197,0.16185812104285763,31.0
+Adrenocortical Cancer,Bile Acid Metabolism,111,0.10822303986427577,43.0
+Adrenocortical Cancer,Pperoxisome,103,0.25275463522350594,18.0
+Adrenocortical Cancer,Allograft Rejection,200,0.21837491012075838,24.0
+Adrenocortical Cancer,Spermatogenesis,132,0.2290735681044461,21.0
+Adrenocortical Cancer,KRAS Signaling Up,197,0.12953817621521685,38.0
+Adrenocortical Cancer,KRAS Signaling Dn,200,0.18193742209526423,27.0
+Adrenocortical Cancer,Pancreas Beta Cells,40,0.39235315279729077,1.0
